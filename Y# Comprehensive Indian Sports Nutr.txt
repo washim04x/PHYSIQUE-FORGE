@@ -1,0 +1,384 @@
+Y# Comprehensive Indian Sports Nutrition Guide
+
+## Part A: Indian Food Macronutrient Database
+
+We compiled nutrient values for each listed food (per 100 g raw or dry weight) and a representative serving. Macronutrients (calories, protein, carbs, fat, fiber) and glycemic index (GI) are given. Cooking methods generally *do not change the total macronutrient content*, but water absorption and textural changes mean that cooked weights yield lower per-100 g values than raw. For example, **moong dal** (green gram): raw (100 g) ≈ **347 kcal, 24 g protein, 62 g carbs, 1 g fat, 16 g fiber**; cooked (100 g) ≈ **105 kcal, 7 g protein, 19 g carbs, 0.4 g fat, 6 g fiber**, GI ≈ 42. Below, tables summarize values (per 100 g raw/dry, and per common serving).  *GI values* are from published charts.  (Cooking notes: e.g. 100 g uncooked rice yields about 300 kcal; when boiled to 300 g cooked, ~130 kcal per 100 g. Oils and ghee are mostly fat; roasting legumes slightly raises glycemic response compared to soaking.)
+
+### Lentils & Legumes (per 100 g raw/dry)
+
+| Food             | Calories (kcal) | Protein (g) | Carbs (g) | Fat (g) | Fiber (g) | Glycemic Index | Serving (g) | Per Serving (cal, prot, carb, fat, fiber) |
+|------------------|-----------------|-------------|-----------|---------|-----------|----------------|-------------|-------------------------------------------|
+| **Moong dal (mung), raw**    | 347 | 24.0 | 62.6 | 1.1 | 16.3 | ~50 (medium) | 50 g raw (uncooked); yields ~150 g cooked | 174 kcal, 12.0 g, 31.3 g, 0.6 g, 8.1 g |
+| **Moong dal, cooked**        | 105 | 7.0  | 19.0 | 0.4 | 6.0 | 42 (low) | 1 cup (200 g) | 210 kcal, 14.0 g, 38.0 g, 0.8 g, 12.0 g |
+| **Masoor dal (red lentil), raw**| 353 | 24.0 | 60.0 | 1.4 | 11.8 | ~38 (low) | 50 g raw | ≈177 kcal, 12.0 g, 30.0 g, 0.7 g, 5.9 g |
+| **Masoor, cooked**           | ~116 | ~9.0 | ~20.0 | ~0.4 | 8.0 | ~29 | 1 cup (200 g) | ≈232 kcal, 18.0 g, 40.0 g, 0.8 g, 16.0 g |
+| **Chana dal (split chickpea), raw** | 360 | 22.0 | 58.0 | 5.0 | 20.0 | ~28 | 50 g raw | 180 kcal, 11.0 g, 29.0 g, 2.5 g, 10.0 g |
+| **Chana dal, cooked**        | 164 | 8.0  | 30.0 | 2.0 | 11.0 | 28 | 1 cup (200 g) | 328 kcal, 16.0 g, 60.0 g, 4.0 g, 22.0 g |
+| **Toor dal (pigeon pea), raw**| 343 | 22.3 | 60.4 | 1.5 | 16.5 | ~28 | 50 g raw | 172 kcal, 11.2 g, 30.2 g, 0.8 g, 8.3 g |
+| **Toor dal, cooked**         | 118 | 8.3 | 20.1 | 0.5 | 5.6 | 28 | 1 cup (200 g) | 236 kcal, 16.6 g, 40.2 g, 1.0 g, 11.2 g |
+| **Kala chana (black chickpea), raw**| 364 | 20.5 | 61.0 | 6.7 | 17.4 | ~30 | 50 g raw | 182 kcal, 10.3 g, 30.5 g, 3.4 g, 8.7 g |
+| **Kala chana, cooked**       | 164 | 8.9 | 25.0 | 2.3 | 8.1 | 30 | 1 cup (200 g) | 328 kcal, 17.8 g, 50.0 g, 4.6 g, 16.2 g |
+| **Rajma (kidney bean), raw** | 347 | 24.0 | 63.0 | 1.2 | 12.0 | ~24 | 50 g raw | 174 kcal, 12.0 g, 31.5 g, 0.6 g, 6.0 g |
+| **Rajma, cooked**            | 127 | 8.7 | 23.6 | 0.5 | 6.4 | 24 | 1 cup (200 g) | 254 kcal, 17.4 g, 47.2 g, 1.0 g, 12.8 g |
+| **Soya chunks (textured), dry**| 345 | 52.0 | 33.0 | 1.5 | 7.5 | ~15 | 30 g (dry) | 104 kcal, 15.6 g, 9.9 g, 0.5 g, 2.3 g |
+| **Soya chunks, soaked/cooked**| 150 | 26.0 | 15.0 | 0.7 | 4.0 | 15 | 1 cup (100 g cooked) | 150 kcal, 26.0 g, 15.0 g, 0.7 g, 4.0 g |
+| **Roasted chana (dried peas)**| 360 | 20.0 | 54.0 | 6.0 | 16.0 | ~33 | 28 g (1 handful) | 100.8 kcal, 5.6 g, 15.1 g, 1.7 g, 4.5 g |
+| **Sattu (roasted gram flour)** | 360 | 22.0 | 58.0 | 6.0 | 10.0 | ~45 | 30 g (sattu drink) | 108 kcal, 6.6 g, 17.4 g, 1.8 g, 3.0 g |
+
+### Grains & Carbohydrates (per 100 g raw/dry)
+
+| Food                    | Calories | Protein | Carbs | Fat | Fiber | GI | Serving | Per Serving |
+|-------------------------|----------|---------|-------|-----|-------|----|---------|-------------|
+| **White rice, raw**     | 360 | 7.0 | 80.0 | 0.6 | 1.3 | 73 | 50 g raw | 180 kcal, 3.5 g, 40.0 g, 0.3 g, 0.7 g |
+| **White rice, cooked**  | 130 | 2.4 | 28.0 | 0.3 | 0.4 | 73 | 150 g (1 cup) | 195 kcal, 3.6 g, 42.0 g, 0.45 g, 0.6 g |
+| **Brown rice, raw**     | 370 | 7.5 | 77.0 | 2.5 | 3.5 | 68 | 50 g raw | 185 kcal, 3.8 g, 38.5 g, 1.25 g, 1.8 g |
+| **Brown rice, cooked**  | 112 | 2.3 | 23.0 | 0.9 | 1.0 | 68 | 150 g (1 cup) | 168 kcal, 3.45 g, 34.5 g, 1.35 g, 1.5 g |
+| **Chapati (whole wheat), 100 g** | 299 | 7.9 | 46.1 | 9.2 | 9.0 | 45 | –       | –                          |
+| **Chapati, 1 medium (30 g)** | ~90 | 2.4 | 14.0 | 2.8 | 2.7 | 45 | 1 roti (30 g) | 90 kcal, 2.4 g, 14.0 g, 2.8 g, 2.7 g |
+| **Poha (flattened rice), raw** | 350 | 6.5 | 76.0 | 1.0 | 1.0 | 54 | 50 g raw | 175 kcal, 3.25 g, 38.0 g, 0.5 g, 0.5 g |
+| **Poha, cooked**        | 78 | 1.5 | 17.0 | 0.2 | 0.2 | 54 | 150 g (bowl) | 117 kcal, 2.25 g, 25.5 g, 0.3 g, 0.3 g |
+| **Dalia (broken wheat) raw** | 340 | 10.0 | 72.0 | 2.5 | 10.0 | ~41 | 50 g raw | 170 kcal, 5.0 g, 36.0 g, 1.25 g, 5.0 g |
+| **Dalia, cooked**       | 130 | 4.0 | 26.0 | 1.0 | 3.6 | 41 | 150 g | 195 kcal, 6.0 g, 39.0 g, 1.5 g, 5.4 g |
+| **Oats (rolled), raw**  | 389 | 16.9 | 66.3 | 6.9 | 10.6 | 55 | 40 g (½ cup) | 156 kcal, 6.8 g, 26.5 g, 2.8 g, 4.2 g |
+| **Oats, cooked (no milk)** | 70 | 2.9 | 12.0 | 0.8 | 1.7 | 55 | 100 g | 70 kcal, 2.9 g, 12.0 g, 0.8 g, 1.7 g |
+| **Quinoa, raw**        | 368 | 14.1 | 64.0 | 6.1 | 7.0 | 53 | 40 g raw | 147 kcal, 5.6 g, 25.6 g, 2.4 g, 2.8 g |
+| **Quinoa, cooked**     | 120 | 4.0 | 21.3 | 1.9 | 2.8 | 53 | 100 g | 120 kcal, 4.0 g, 21.3 g, 1.9 g, 2.8 g |
+| **Amaranth (rajgira), raw** | 371 | 13.6 | 65.2 | 7.0 | 6.7 | 97 (very high) | 30 g raw | 111 kcal, 4.1 g, 19.6 g, 2.1 g, 2.0 g |
+| **Amaranth, cooked**   | 102 | 3.4 | 19.7 | 1.4 | 2.0 | 97 | 100 g | 102 kcal, 3.4 g, 19.7 g, 1.4 g, 2.0 g |
+
+### Animal Proteins
+
+| Food                          | Calories | Protein | Carbs | Fat | Fiber | GI | Serving | Per Serving |
+|-------------------------------|----------|---------|-------|-----|-------|----|---------|-------------|
+| **Chicken breast, raw** (skinless) | 110 | 23.0 | 0.0 | 1.2 | 0.0 | – | 100 g | 110 kcal, 23.0 g, 0.0 g, 1.2 g, 0 |
+| **Chicken breast, boiled**    | 165 | 31.0 | 0.0 | 3.6 | 0.0 | – | 100 g | 165 kcal, 31.0 g, 0, 3.6 g, 0 |
+| **Rohu fish, cooked (pan-fried)** | 140 | 20.0 | 0.0 | 6.0 | 0.0 | – | 100 g | 140 kcal, 20.0 g, 0, 6.0 g, 0 |
+| **Katla fish, cooked**        | 137 | 16.0 | 0.0 | 8.5 | 0.0 | – | 100 g | 137 kcal, 16.0 g, 0, 8.5 g, 0 |
+| **Egg, whole (boiled)**       | 155 | 13.0 | 1.1 | 11.0 | 0.0 | 0 | 1 large (50 g) | 78 kcal, 6.5 g, 0.55 g, 5.5 g, 0 |
+| **Egg white, raw (per 30 g)**  | 16 | 3.6 | 0.2 | 0.06 | 0.0 | 0 | 30 g (~1 white) | 16 kcal, 3.6 g, 0.2 g, 0.06 g, 0 |
+| **Milk, skimmed (0% fat)**    | 35 | 3.4 | 5.0 | 0.2 | 0.0 | 32 | 1 cup (250 ml) | 87.5 kcal, 8.5 g, 12.5 g, 0.5 g, 0 |
+| **Milk, full cream (3.5% fat)** | 64 | 3.3 | 4.8 | 3.6 | 0.0 | 32 | 1 cup (250 ml) | 160 kcal, 8.25 g, 12.0 g, 9.0 g, 0 |
+| **Paneer (cottage cheese)**   | 296 | 18.3 | 1.2 | 23.4 | 0 | – | 100 g | 296 kcal, 18.3 g, 1.2 g, 23.4 g, 0 |
+| **Curd (whole-milk yogurt)**  | 61  | 3.5 | 4.7 | 3.3 | 0 | 35 | 100 g | 61 kcal, 3.5 g, 4.7 g, 3.3 g, 0 |
+
+### Plant Proteins & Seeds
+
+| Food             | Calories | Protein | Carbs | Fat  | Fiber | GI | Serving | Per Serving |
+|------------------|----------|---------|-------|------|-------|----|---------|-------------|
+| **Tofu (firm)**  | 76 | 8.0 | 2.0 | 4.8 | 0.3 | ~15 | 100 g | 76 kcal, 8.0 g, 2.0 g, 4.8 g, 0.3 g |
+| **Peanuts, raw** | 567 | 25.8 | 16.1 | 49.2 | 8.5 | 14 | 28 g (handful) | 159 kcal, 7.2 g, 4.5 g, 13.8 g, 2.4 g |
+| **Peanuts, roasted (unsalted)** | 580 | 25.0 | 16.0 | 50.0 | 8.0 | 14 | 28 g | 162 kcal, 7.0 g, 4.5 g, 14.0 g, 2.2 g |
+| **Peanut butter (natural)** | 588 | 25.0 | 20.0 | 50.0 | 6.0 | 14 | 2 tbsp (32 g) | 188 kcal, 8.0 g, 6.4 g, 16.0 g, 1.9 g |
+| **Sunflower seeds** | 584 | 20.8 | 20.0 | 51.5 | 8.6 | 35 | 28 g | 163 kcal, 5.8 g, 5.6 g, 14.4 g, 2.4 g |
+| **Sesame seeds (til)** | 573 | 17.7 | 23.4 | 49.7 | 12.0 | 35 | 28 g | 161 kcal, 4.96 g, 6.6 g, 13.9 g, 3.36 g |
+| **Flaxseeds**    | 534 | 18.3 | 28.9 | 42.2 | 27.3 | 35 | 1 tbsp (10 g) | 53 kcal, 1.8 g, 2.9 g, 4.2 g, 2.7 g |
+
+### Vegetables (per 100 g, raw unless noted)
+
+| Food         | Calories | Protein | Carbs | Fat | Fiber | GI | Serving | Per Serving |
+|--------------|----------|---------|-------|-----|-------|----|---------|-------------|
+| **Spinach**     | 23 | 2.9 | 3.6 | 0.4 | 2.2 | 15 | 100 g | 23 kcal, 2.9 g, 3.6 g, 0.4 g, 2.2 g |
+| **Broccoli**    | 34 | 2.8 | 6.6 | 0.4 | 2.6 | 15 | 100 g | 34 kcal, 2.8 g, 6.6 g, 0.4 g, 2.6 g |
+| **Cabbage**     | 25 | 1.3 | 5.8 | 0.1 | 2.5 | 10 | 100 g | 25 kcal, 1.3 g, 5.8 g, 0.1 g, 2.5 g |
+| **Cauliflower** | 25 | 1.9 | 5.0 | 0.3 | 2.0 | 15 | 100 g | 25 kcal, 1.9 g, 5.0 g, 0.3 g, 2.0 g |
+| **Tomato**      | 18 | 0.9 | 3.9 | 0.2 | 1.2 | 15 | 100 g | 18 kcal, 0.9 g, 3.9 g, 0.2 g, 1.2 g |
+| **Onion**       | 40 | 1.1 | 9.3 | 0.1 | 1.7 | 10 | 100 g | 40 kcal, 1.1 g, 9.3 g, 0.1 g, 1.7 g |
+| **Green beans** | 31 | 1.8 | 7.0 | 0.1 | 3.4 | 15 | 100 g | 31 kcal, 1.8 g, 7.0 g, 0.1 g, 3.4 g |
+| **Cucumber**    | 16 | 0.7 | 3.6 | 0.1 | 0.5 | 15 | 100 g | 16 kcal, 0.7 g, 3.6 g, 0.1 g, 0.5 g |
+| **Bitter gourd**| 20 | 1.0 | 4.3 | 0.2 | 2.8 | 30 | 100 g | 20 kcal, 1.0 g, 4.3 g, 0.2 g, 2.8 g |
+
+### Fruits (per 100 g, raw)
+
+| Food       | Calories | Protein | Carbs | Fat | Fiber | GI | Serving | Per Serving |
+|------------|----------|---------|-------|-----|-------|----|---------|-------------|
+| **Banana** | 89 | 1.1 | 23.0 | 0.3 | 2.6 | 51 | 120 g (1 medium) | 107 kcal, 1.3 g, 27.6 g, 0.4 g, 3.1 g |
+| **Apple**  | 52 | 0.3 | 14.0 | 0.2 | 2.4 | 38 | 150 g (1 medium) | 78 kcal, 0.45 g, 21.0 g, 0.3 g, 3.6 g |
+| **Papaya** | 43 | 0.5 | 11.0 | 0.3 | 1.7 | 60 | 140 g (1 slice) | 60 kcal, 0.7 g, 15.4 g, 0.4 g, 2.4 g |
+| **Guava**  | 68 | 2.6 | 14.0 | 1.0 | 5.4 | 55 | 100 g | 68 kcal, 2.6 g, 14.0 g, 1.0 g, 5.4 g |
+| **Orange** | 47 | 0.9 | 12.0 | 0.1 | 2.4 | 43 | 130 g (1 medium) | 61 kcal, 1.17 g, 15.6 g, 0.13 g, 3.12 g |
+| **Watermelon** | 30 | 0.6 | 8.0 | 0.2 | 0.4 | 76 | 100 g | 30 kcal, 0.6 g, 8.0 g, 0.2 g, 0.4 g |
+
+### Fats & Condiments (per 100 g)
+
+| Item            | Calories | Fat (g) | Protein/Carb (g) | Notes                   | Serving | Per Serving |
+|-----------------|----------|---------|------------------|-------------------------|---------|-------------|
+| **Mustard oil** | 884 | 100.0 | – | Monounsaturated | 1 tbsp (14 g) | 124 kcal, 14 g fat |
+| **Coconut oil** | 862 | 100.0 | – | Saturated (∼90%)| 1 tbsp (14 g) | 120 kcal, 14 g fat |
+| **Ghee**        | 900 | 100.0 | – | Saturated (~60%)| 1 tbsp (15 g) | 135 kcal, 15 g fat |
+| **Olive oil**   | 884 | 100.0 | – | Monounsaturated | 1 tbsp (14 g) | 124 kcal, 14 g fat |
+
+**Sources:** Nutrient data are from Indian and international food composition tables. GI values from published glycemic index data. 
+
+## Part B: Budget-Stratified Meal Plans
+
+We constructed daily meal frameworks for Indian diets under five budget brackets (₹ per day). For each, we list: achievable total calories, maximum protein, recommended foods, a sample 6-meal day, and a cost breakdown. Kolkata prices (July 2026) are used. Prices: moong dal ~₹115/kg, masoor dal ~₹108/kg, toor dal ~₹130/kg; rice ~₹60/kg, wheat flour ~₹35/kg, eggs ~₹6/pc, chicken ~₹200/kg, seasonal veg ~₹30–40/kg. 
+
+### 1. ₹30–50/day (₹900–1,500/month) – Extreme Student Budget
+
+- **Staples:** Cheap pulses (moong dal, masoor dal), rice, seasonal vegetables, minimal oil.  
+- **Proteins:** Mostly plant: dal, + 1 egg if possible (extra ₹6).  
+- **Calories:** ~600–800 kcal/day.  
+- **Protein:** ~30–35 g/day max.  
+- **Food stack:** Moong/masoor dal, rice or roti, potato/onion/tomato vegetables, eggs (if budget).  
+- **Sample 6-meal plan:**  
+  1. **Early Breakfast:** 30 g moong dal porridge (soaked overnight; cooked in tea-kettle) ~200 kcal, 12 g protein.  
+  2. **Snack 1:** 1 small apple (~60 kcal) or 1 egg (78 kcal, 6 g protein, ₹6).  
+  3. **Lunch:** 100 g cooked rice with 50 g cooked masoor dal ~200 kcal + 12 g protein. Add 50 g cooked seasonal veg.  
+  4. **Snack 2:** 1 boiled egg or 30 g roasted chana (100 kcal, 5 g protein).  
+  5. **Evening:** 2 small rotis (60 g flour, ~210 kcal, 6 g protein) with 50 g cooked dal or 50 g paneer bhurji (~150 kcal, 9 g protein) if affordable.  
+  6. **Night:** 100 ml skim milk (35 kcal, 3.4 g protein) or curd (50 g, 30 kcal, 2 g protein).  
+
+- **Budget breakdown (≈₹40):** 
+  - Moong dal 150 g (₹17) → 522 kcal, 36 g protein.  
+  - Rice 100 g (₹6) → 130 kcal.  
+  - Wheat flour 100 g (₹3.5) → 299 kcal, 8 g protein (makes ~3 small rotis).  
+  - Egg 1 (₹6) → 78 kcal, 6 g protein.  
+  - Veg (tomato/onion/potato) 150 g (₹6) → ~75 kcal, 2 g protein.  
+  - Oil/ghee 10 g (₹2) → 90 kcal.  
+  - **Total:** ~49 kcal exceeds ₹50, but can trim portion slightly.  
+
+*(This yields roughly 800–900 kcal and ~40 g protein.)*  
+
+### 2. ₹50–100/day (₹1,500–3,000/month) – Moderate Student Budget
+
+- **Staples:** Pulses, rice/wheat, eggs (2–3/day), seasonal veg, potato.  
+- **Protein:** Aim for 50–60 g/day by adding eggs, paneer (if possible) or soya chunks.  
+- **Calories:** ~1,200–1,500 kcal/day.  
+- **Food stack:** Continue moong/masoor/chana dal, mix of rice and chapati, 2–3 eggs, peanuts or sattu for snacks, leafy greens.  
+- **Sample 6-meal plan:**  
+  1. **Breakfast:** Oats (50 g) porridge with water (190 kcal, 7 g protein) + 1 banana (~90 kcal).  
+  2. **Snack:** 1 hard-boiled egg (78 kcal, 6 g protein) + 1 small fruit.  
+  3. **Lunch:** 100 g cooked rice + 75 g moong dal curry (~300 kcal, 18 g protein). Veg sabzi (100 g) 50 kcal.  
+  4. **Snack:** Roasted peanuts (30 g, ~170 kcal, 7 g protein) or sattu drink (50 g, 180 kcal, 10 g protein).  
+  5. **Evening:** 2 chapatis (80 kcal, 6 g protein) + 100 g paneer bhurji or chicken curry (if non-veg) (~200 kcal, 15 g protein).  
+  6. **Night:** 150 ml milk (full/skim) or curd (75 kcal, 5 g protein) before sleep.  
+
+- **Budget breakdown (₹80):**  
+  - Dal (moong/chana) 100 g (₹12) → 347 kcal, 24 g protein.  
+  - Rice 150 g (₹9) → 195 kcal.  
+  - Wheat flour 60 g (₹2) → 180 kcal, 4.8 g protein.  
+  - Eggs 2 (₹12) → 156 kcal, 12 g protein.  
+  - Milk 200 ml (₹10) → 70 kcal, 7 g protein.  
+  - Veg 200 g (₹8) → 100 kcal.  
+  - Peanuts 30 g (₹10) → 170 kcal, 7 g protein.  
+  - Oil/ghee 15 g (₹3) → 135 kcal.  
+  - **Total:** ~1,353 kcal, ~59 g protein (cost ~₹76).  
+
+### 3. ₹100–200/day (₹3,000–6,000/month) – Working Professional Budget
+
+- **Staples:** Higher quantity + variety: rice, wheat, poha, oats. Protein from pulses, eggs (3+), chicken, fish, paneer, nuts.  
+- **Protein:** ~80–100 g/day.  
+- **Calories:** ~2,000–2,500 kcal/day.  
+- **Food stack:** Dal-rice, roti, eggs (≥2/day), 100–150 g chicken or fish, paneer/tofu, Greek yogurt, legumes, nuts, dairy milk.  
+- **Sample 6-meal plan:**  
+  1. **Breakfast:** Veg omelette (3 eggs, ~230 kcal,18 g protein) + 2 slices whole-wheat toast (~140 kcal, 5 g protein).  
+  2. **Snack 1:** Banana (90 kcal) + peanuts (30 g, 170 kcal, 7 g protein).  
+  3. **Lunch:** 150 g boiled rice (195 kcal) + 100 g chicken breast curry (~165 kcal, 31 g protein) + salad.  
+  4. **Snack 2:** Lassi or curd (200 ml, 100 kcal, 7 g protein) + 1 apple.  
+  5. **Evening:** 2 chapatis (160 kcal, 10 g protein) + 100 g paneer curry (~296 kcal, 18 g protein).  
+  6. **Night:** Milk (200 ml, 70 kcal, 7 g protein) + a boiled egg (78 kcal, 6 g protein).  
+
+- **Budget breakdown (₹150):**  
+  - Rice 200 g (₹12) → 260 kcal.  
+  - Dal (mixed) 100 g (₹12) → 347 kcal, 24 g protein.  
+  - Chicken breast 150 g (₹30) → 248 kcal, 46.5 g protein.  
+  - Eggs 3 (₹18) → 234 kcal, 18 g protein.  
+  - Paneer 100 g (₹35) → 296 kcal, 18.3 g protein.  
+  - Wheat flour 100 g (₹4) → 299 kcal, 7.9 g protein.  
+  - Milk 300 ml (₹15) → 105 kcal, 10.5 g protein.  
+  - Vegetables 300 g (₹12) → 150 kcal.  
+  - Nuts (peanuts 30 g) ₹10 → 170 kcal, 7 g protein.  
+  - Oil/ghee 20 g (₹4) → 180 kcal.  
+  - **Total:** ~2,289 kcal, ~114 g protein (cost ~₹147).  
+
+### 4. ₹200–400/day (₹6,000–12,000/month) – Comfortable Budget
+
+- **Staples:** All of above + increased portions. More meat/fish, eggs (3–4), quality pulses (urad, rajma), mixed nuts.  
+- **Protein:** ~120–150 g/day.  
+- **Calories:** ~2,500–3,000 kcal.  
+- **Sample plan:** Similar to budget-3 but with larger portions (e.g. 200 g chicken, 100 g fish, 100 g paneer), plus whey protein shake (120 kcal, 25 g protein).  
+- **Budget breakdown:** Allow ~₹300–350/day.  
+
+### 5. ₹400–800/day (₹12,000–24,000/month) – Premium Budget
+
+- **Staples:** Quality foods: premium eggs, milk, meats, imported grains, organic produce. Possibly supplements (whey, fish oil).  
+- **Protein:** ≥150–200 g/day.  
+- **Calories:** 3,000+ kcal.  
+- **Sample plan:**  
+  1. Protein shake (whey 30 g, 120 kcal, 24 g protein) + fruits.  
+  2. Greek yogurt + nuts.  
+  3. Grilled chicken (200 g, 330 kcal, 62 g protein) + quinoa salad.  
+  4. Cottage cheese or fish + wild rice.  
+  5. Paneer/tofu stir-fry + chapatis.  
+  6. Milk (250 ml, 90 kcal, 9 g protein) + casein or cottage cheese before bed.  
+
+- **Budget breakdown:** Ample budget for quality: e.g. organic chicken (₹350/kg), imported salmon (₹600/kg), branded whey (₹100–150/serve) etc.
+
+## Part C: Goal-Specific Macro Protocols & Timing
+
+For each goal, we specify macro splits, protein (g/kg), calorie targets, food timing, and foods to avoid.
+
+- **1. Body Recomposition (simultaneous fat loss & muscle gain; “skinny-fat” start):**  
+  - **Macros:** High protein (2.2–2.5 g/kg bodyweight), moderate carbs (40–50% of kcal), moderate fats (20–30%). Example: 40% carb, 30% protein, 30% fat.  
+  - **Protein:** ~2.2 g/kg (for 70 kg person → ~154 g).  
+  - **Calories:** Slight deficit or maintenance. Roughly maintenance TDEE (Mifflin-St Jeor) to bodyweight (e.g. 18/M/55kg/TDEE~1796). Adjust 10% below maintenance for fat loss.  
+  - **Pre-workout (1–2 h before):** Balanced small meal with carbs and protein (e.g. banana + whey shake, or oatmeal + milk).  
+  - **Post-workout (within 30 min):** Fast protein (whey or egg whites) + carbs (fruit or rice).  
+  - **Before bed:** Casein-rich protein (cottage cheese or milk) to preserve muscle.  
+  - **Avoid:** Refined sugars, empty calories (e.g. soft drinks, deep-fried snacks) that hamper fat loss.  
+
+- **2. Aesthetic V-Taper (wide shoulders, narrow waist, lean muscle):**  
+  - **Macros:** High protein (~2.2 g/kg), moderate carbs (~45–50%), moderate fat (~20–25%). Often slightly higher carbs to fuel upper-body workouts.  
+  - **Protein:** ~2.2 g/kg (maintain muscle).  
+  - **Calories:** Around maintenance or slight surplus (if adding muscle) but focus on lean gain.  
+  - **Timing:** Similar to recomposition, with carb emphasis around resistance training. Pre-workout: oats/fruit + egg whites; post-workout: lean protein + rice/banana. Emphasize protein distribution evenly.  
+  - **Before bed:** Light protein (greek yogurt) and avoid heavy fats.  
+  - **Avoid:** Excessive calories from fat; limit alcohol and high-sugar treats to prevent waist fat.  
+
+- **3. Classic Bodybuilder Bulk:**  
+  - **Macros:** High calories + high protein + high carbs. Example 50% carbs, 30% protein, 20% fat.  
+  - **Protein:** 2.2–2.5 g/kg (for lean bulk).  
+  - **Calories:** ~+10–15% above TDEE for gradual surplus. Eg for 70 kg: ~2,500–2,700 kcal.  
+  - **Timing:**  
+    - **Pre-workout:** Carb-heavy (e.g. rice/oats + protein) ~1.5–2 h before gym.  
+    - **Post-workout:** Protein shake + carbs (dextrose/waxy maize) + creatine.  
+    - **Before bed:** Slow protein (casein or cottage cheese).  
+  - **Avoid:** Overly sugary junk that adds fat; stick to clean bulking foods (rice, potatoes, fruit, lean meats).  
+
+- **4. Powerlifting / Strength:**  
+  - **Macros:** Very high protein (2.4–2.5 g/kg) to support recovery, high carbs (55–60%), moderate fat (~20%).  
+  - **Protein:** 2.4–2.5 g/kg (e.g. 80 kg lifter → ~200 g).  
+  - **Calories:** ≥ maintenance (often modest surplus) to fuel training.  
+  - **Timing:**  
+    - **Pre-workout:** Starchy carbs + moderate protein (rice/banana + whey) ~1h prior.  
+    - **During workout:** BCAAs or carb drink (optional).  
+    - **Post-workout:** Whey protein + 100–150 g carbs (rice/potato) to replenish glycogen.  
+    - **Bed:** Casein protein (milk, cottage cheese).  
+  - **Avoid:** Excess fiber immediately pre-workout; minimize digestive discomfort.  
+
+- **5. Weight Loss / Fat Cut (preserve muscle):**  
+  - **Macros:** High protein (≥2.5 g/kg) to preserve muscle, low–moderate carbs (30–40%), moderate fat (20–30%). Example: 40% protein, 30% carbs, 30% fat.  
+  - **Protein:** 2.5 g/kg or higher.  
+  - **Calories:** 15–25% below maintenance.  
+  - **Timing:**  
+    - **Pre-workout:** Low GI carbs + protein (e.g. oats + whey 1h before).  
+    - **Post-workout:** Fast protein + moderate carbs to support recovery.  
+    - **Bed:** Slow-digesting protein (no heavy fats).  
+  - **Avoid:** Sugary snacks, high-fructose fruits at night, alcohol, greasy fried foods.  
+
+- **6. Endurance / Athlete Performance:**  
+  - **Macros:** High carbs (60–70% of calories), moderate protein (1.6–2.0 g/kg), moderate fat (20–25%).  
+  - **Protein:** 1.6–2.0 g/kg (lower end of ISSN recommendations).  
+  - **Calories:** Often high (depending on training volume), up to 3,000+ kcal for distance athletes.  
+  - **Timing:**  
+    - **Pre-endurance event:** Carb-rich meal (rice, banana) 2–3 h before.  
+    - **During:** Carbs (energy gels, banana) during prolonged exercise.  
+    - **Post:** Carbs+protein (recovery shake or meal) within 30 min.  
+    - **Before bed:** Carbs not necessary; light protein.  
+  - **Avoid:** High-fat meals pre-workout, and heavy protein or fiber pre-run; these can cause GI distress.  
+
+*(Protein guidelines reference: ISSN recommends ~1.4–2.0 g/kg for active individuals; athletes doing intense lifting often take ~1.6–2.0 g/kg.)*
+
+## Part D: Kettle-Cookable Foods for Hostel Students
+
+Using only an electric kettle (boiling water), students can prepare various simple foods. For each food below we give a method, cook time, approximate macros, cost in Kolkata, and a taste rating (1–5). 
+
+- **Instant Oats:** Pour 50 g rolled oats into a bowl, add ~100 ml boiling water, cover 3–5 min, stir. Add fruit or milk powder for taste. *Time:* 5 min. *Macros (per serving):* ~190 kcal, 7 g protein, 30 g carbs, 3 g fat. *Cost:* ~₹5 (oats ₹80/kg). *Taste:* 4/5 (neutral, filling).  
+- **Couscous:** Place 50 g couscous in bowl, pour 75 ml boiling water, cover 5 min, fluff with fork. Add salt/spices. *Time:* 5 min. *Macros:* ~180 kcal, 6 g protein, 34 g carbs, 2 g fat. *Cost:* ~₹8 (₹160/kg). *Taste:* 4/5 (wheat-like).  
+- **Quinoa:** Rinse 50 g quinoa, put in bowl with 100 ml boiling water, cover 15–20 min. *Time:* 20 min. *Macros:* ~185 kcal, 6 g protein, 30 g carbs, 3 g fat. *Cost:* ~₹25 (₹500/kg). *Taste:* 4/5 (nutty).  
+- **Instant Noodles (Maggi):** Add noodles block to kettle or bowl, pour boiling water to cover, cook 3–4 min, drain excess. *Time:* 5 min. *Macros:* ~350 kcal, 7 g protein, 46 g carbs, 15 g fat (per 70 g pack). *Cost:* ~₹10. *Taste:* 5/5 (tasty, but high salt/fat).  
+- **Masoor Dal Soup (insta-dal):** Put 30 g red lentils in bowl, add spices, pour boiling water, simmer 10 min (keep reboiling). *Time:* 10–15 min. *Macros:* ~110 kcal, 7 g protein, 16 g carbs, 0.5 g fat. *Cost:* ₹2–3. *Taste:* 3/5 (bland unless spiced).  
+- **Sattu Drink:** Mix 30 g sattu (roasted gram flour) with salt/spices in bowl, add 150 ml boiled water, stir. *Time:* 2 min. *Macros:* ~115 kcal, 7 g protein, 18 g carbs, 1.2 g fat. *Cost:* ₹1 (₹37/kg). *Taste:* 3/5 (earthy).  
+- **Egg (Sous-vide style):** Crack 1 egg into a sealed ziplock (poke small hole to vent air), submerge bag in boiling water 8–10 min. *Time:* 10 min. *Macros:* 78 kcal, 6 g protein, 0.6 g carbs, 5.5 g fat. *Cost:* ₹6. *Taste:* 4/5 (hard-boiled). (*Caution:* ensure bag doesn’t touch coil.)  
+- **Peanut Butter Milk:** Mix 2 tbsp peanut butter with 200 ml hot water/milk for a shake. *Time:* 2 min. *Macros:* ~190 kcal, 8 g protein, 6 g carbs, 16 g fat. *Cost:* ₹8 (PB ₹400/kg). *Taste:* 5/5 (rich, sweet).  
+- **Soup (Knorr Mug Soups):** Empty powder into mug, add boiling water, stir. *Time:* 2 min. *Macros:* ~60 kcal, 1 g protein, 8 g carbs. *Cost:* ₹10 per sachet. *Taste:* 3/5 (salty).  
+- **Instant Poha (Flattened rice):** Soak 50 g poha in boiling water 5 min, drain and season. *Time:* 5 min. *Macros:* ~175 kcal, 4 g protein, 38 g carbs, 0.5 g fat. *Cost:* ₹2 (₹40/kg). *Taste:* 4/5 (light, cereal-like).  
+
+These kettle recipes offer protein-carbs balance with minimal kitchen gear. Costs assume July 2026 Kolkata rates.  
+
+## Part E: Body-Type Caloric Calculators
+
+**Mifflin–St Jeor TDEE formula:** 
+
+- **Male:** BMR = 10×W + 6.25×H – 5×Age + 5.  
+- **Female:** BMR = 10×W + 6.25×H – 5×Age – 161.  
+Then **TDEE = BMR × ActivityFactor**, where ActivityFactor = 1.2 (sedentary), 1.375 (light), 1.55 (moderate), 1.725 (very active).  
+
+**Examples:**  
+1. **18-y male, 55 kg, 165 cm, sedentary (AF=1.2):**  
+   BMR = 10×55 + 6.25×165 – 5×18 + 5 = 550 + 1031.25 – 90 + 5 = 1496 kcal.  
+   TDEE = 1496×1.2 = **≈1796 kcal/day**.  
+
+2. **22-y male, 68 kg, 170 cm, moderately active (1.55):**  
+   BMR = 10×68 + 6.25×170 – 5×22 +5 = 680 + 1062.5 – 110 + 5 = 1637.5 kcal.  
+   TDEE = 1637.5×1.55 = **≈2538 kcal**.  
+
+3. **25-y female, 55 kg, 158 cm, lightly active (1.375):**  
+   BMR = 10×55 + 6.25×158 – 5×25 –161 = 550 + 987.5 – 125 – 161 = 1251.5 kcal.  
+   TDEE = 1251.5×1.375 = **≈1721 kcal**.  
+
+4. **30-y male, 80 kg, 175 cm, very active (1.725):**  
+   BMR = 10×80 + 6.25×175 – 5×30 +5 = 800 + 1093.75 – 150 +5 = 1748.75 kcal.  
+   TDEE = 1748.75×1.725 = **≈3017 kcal**.  
+
+*(Worked examples use standard activity multipliers.)*
+
+## Part F: Indian Supplement Recommendations
+
+Below are affordable, effective supplements available in India, with protein content and cost/serve.  **Where to buy:** Major online retailers (Amazon.in, Healthkart, etc.) or local supplement stores in Kolkata. Goals: mass gainers and whey for muscle gain, creatine for strength, multivitamins for general health, omega-3 for recovery, pre-workouts for energy.
+
+- **Whey Protein:** 
+  - *MuscleBlaze Whey (Fuel One)* – ~24–27 g protein/30 g scoop, ₹2,600/kg (→ ~₹80–90/serving). Good balance of carbs and protein; suitable for muscle gain, weight maintenance. 
+  - *BigMuscles 100% Whey* – ~25 g protein/30 g, ₹2,000/kg (₹60–70/serve).  
+  - *ON Gold Standard 100% Whey (imported)* – 24 g protein, ₹8,000/2.27 kg (₹165/serve). Premium quality.  
+- **Creatine Monohydrate:** 
+  - *MuscleBlaze CreaPRO (Creapure®)* – 3 g creatine/serving, ₹1,459/250 g (₹17.5/serving). Improves strength/power.  
+  - *MyProtein Creatine* – 5 g/serve, ₹799/100 g (₹40/serve).  
+- **Multivitamins:** 
+  - *HealthKart HK Vitals Multi (Men/Women)* – 60 tablets for ₹399 (₹6.7/tab). Covers daily vitamins/minerals; for general health.  
+  - *Opti-Men (ON)* – 90 tabs ₹1,600 (₹18/tab). Higher potency (premium).  
+- **Omega-3 (Fish Oil):** 
+  - *HK Vitals Fish Oil (HealthKart)* – 1,000 mg capsules, ₹480/60 (₹8/1000 mg). (EPA+DHA ~300 mg/cap). Good for recovery/inflammation.  
+  - *Sundari Flaxseed Oil* – 1 tsp (5 g): 27 kcal, 4 g fat (ALA), ₹5/tsp. Cheap vegetarian omega-3 (ALA).  
+- **Pre-Workout:** 
+  - *One Science SNIPR* – various stimulant formulas, ~₹1,200/200 g (20 servings, ~₹60/serve).  
+  - *BigMuscles Neprogen* – ₹1,500/300 g (30 serv., ₹50/serve). Budget option (caffeine, creatine, taurine).  
+- **Mass Gainers:** 
+  - *Optimum Nutrition Serious Mass* – 50 g protein, 1,250 kcal/serve, ₹3,000/2.7 kg (~₹180/serve). For hard gainers.  
+  - *BigMuscles Gainer Xtreme* – 30 g protein, 550 kcal/serve, ₹1,500/3 kg (₹25/serve). More affordable bulking (lower protein).  
+
+*Suitability:* Whey/creatine suit muscle gain & strength goals. Multivitamins and omega-3 suit all (filling nutritional gaps). Pre-workouts suit intense training days. Mass gainers suit hard bulking (with many calories). Brands above include budget (MuscleBlaze, HealthKart) and premium (ON, MyProtein).
+
+## Part G: Dietary Restrictions – Adapted Meal Plans
+
+Below are guidelines and example adjustments for special diets, using the same budget frameworks. 
+
+- **Pure Vegetarians (no eggs/meat, but dairy/eggs allowed) – “Lacto-vegetarian”:**  
+  - *Protein sources:* Dal, paneer, yogurt, milk, nuts, soya (tofu, soya chunks), legumes.  
+  - *Calories/protein:* Slightly lower than omnivores; add paneer/tofu extra to hit protein.  
+  - *Examples:* Substitute eggs with paneer bhurji or curd; add 50 g paneer (100 kcal, 10 g protein) per meal.  
+  - *Avoid:* No meat/fish; ensure B12 from dairy or supplement.  
+  - *Meal plan:* Similar to budget plans but omit meat. For moderate budget, e.g., **Lunch:** chana masala + rice + 100 g paneer curry. **Snacks:** greek yogurt, roasted chana, nut butter.  
+
+- **Vegans (no animal products at all):**  
+  - *Protein sources:* Lentils, beans, tofu, soya milk, nuts/seeds, whole grains, spirulina.  
+  - *Calories/protein:* Use larger servings (e.g. 75–100 g lentils per meal) and combine foods for complete protein.  
+  - *Examples:* Use tofu (firm) instead of paneer; almond/soy milk instead of dairy; sattu and peanut butter are vegan staples.  
+  - *Avoid:* All dairy, eggs, honey.  
+  - *Supplements:* B12 and D recommended.  
+  - *Meal plan:* At ₹100/day: **Breakfast:** oats with soy milk + flaxseeds; **Lunch:** rajma + brown rice + sautéed greens (spinach); **Snack:** peanut butter on toast; **Dinner:** stir-fried tofu + roti.  
+
+- **Lactose Intolerance (no lactose/dairy):**  
+  - *Protein:* Similar to vegetarians but no milk, paneer, curd. Use whey isolate (if tolerated) or plant proteins.  
+  - *Calcium:* Use fortified soy milk, tofu, leafy greens.  
+  - *Meals:* Replace dairy with soy/yoghurt alternatives. E.g., milk→soy milk, curd→soy yogurt, paneer→tofu. Eggs and meat (if non-veg) allowed.  
+
+- **Halal Diet (no pork, alcohol):**  
+  - *Protein:* All allowed meats except pork. Chicken, mutton, fish must be halal-sourced. Dairy and eggs are fine.  
+  - *Meals:* Same structure as budgets. E.g. for moderate budget: **Lunch:** halal chicken curry + rice; **Snacks:** eggs, nuts, fruits.  
+  - *Avoid:* Pork products; ensure gelatin supplements (like some whey/multivitamins) are halal-certified.  
+  - *Supplement note:* Choose halal-certified whey/creatine if concerned; otherwise, standard products suffice.  
+
+Each restricted diet follows the same 6-meal frameworks above but swaps in allowed foods. Calories and protein are maintained by careful substitution (e.g. more legumes/nuts for vegans, paneer for vegetarians). These adaptations keep budget and macro targets similar to Part B frameworks, just replacing disallowed foods with equivalents.  
+
+**Sources:** Macronutrient and GI data from ICMR-NIN and USDA databases. Supplement info from manufacturers. Nutrition guidelines from sports nutrition literature and official tables.

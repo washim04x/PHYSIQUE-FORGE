@@ -1,0 +1,455 @@
+# Part A: Complete Exercise Database (Gym Equipment)
+
+Below is an exhaustive list of the top exercises for each muscle group, with details on muscles targeted, equipment, technique, common errors, cues, goals, and recommended sets/reps/rest by level. **Tables summarize the main programming data (sets–reps–rest) and key notes;** accompanying bullet lists give step-by-step execution, mistakes, and cues. 
+
+### Latissimus Dorsi (Back Width, V-Taper)
+
+| Exercise               | Equipment           | Sets (Beg/Int/Adv)     | Reps (Beg/Int/Adv)    | Rest    | Notes (Primary/Secondary, Goals, Cues)                                              |
+|------------------------|---------------------|------------------------|-----------------------|---------|-------------------------------------------------------------------------------------|
+| **Wide-Grip Pull-Up**  | Pull-up bar         | 2 / 3 / 4              | 5–8 / 8–12 / 8–12     | 90 s    | *Primary:* Lats; *Secondary:* Biceps, traps, rear delts.  Excellent for upper-body pulling strength and V-taper width. Cue on ascent: “Lead with your elbows down and back, chest to bar.” Keep shoulders down. Mistakes: shrugging shoulders, bending wrists, kipping. Aids core stability. Good for strength/hypertrophy. |
+| **Lat Pulldown (Wide)**| Lat pulldown machine| 2 / 3 / 4              | 8–12 / 8–12 / 8–12    | 60–90 s | *Primary:* Lats; *Secondary:* Biceps, rear deltoids. Focus on pulling elbows straight down (imagine “wrapping the bar around your torso”). Cue: “Squeeze lats at bottom.” Mistakes: leaning too far back, jerking, using arms more than back. Ideal for hypertrophy of back width. |
+| **Chin-Up (Close)**    | Pull-up bar         | 2 / 3 / 4              | 5–8 / 8–12 / 8–12     | 90 s    | *Primary:* Lats and biceps; *Secondary:* lower traps, mid-back. Chin-up (underhand grip) engages lats with extra biceps involvement. Cue: “Pull chest up to bar, elbows close to body.” Avoid swinging or partial reps. Good for lats and arm development. |
+| **Bent-Over Barbell Row** | Barbell           | 2 / 3 / 4              | 6–10 / 8–12 / 6–10    | 90–120 s| *Primary:* Lats, middle traps, rhomboids; *Secondary:* rear delts, forearms. Keep back flat, hinge at hips, pull bar to lower sternum. Cue: “Row elbows past your torso, squeeze shoulder blades.” Common errors: rounding back, letting elbows flare out, using momentum. Great for back thickness and strength. |
+| **Single-Arm Dumbbell Row** | Dumbbell, bench | 2 / 3 / 4              | 8–12 / 8–12 / 6–10    | 60–90 s | *Primary:* Lats and rhomboids; *Secondary:* biceps, traps. Brace one hand on bench, row DB up to hip. Cue: “Imagine driving elbow into ceiling.” Mistakes: twisting torso, shoulder droop. Builds unilateral back strength and peak contraction. |
+| **Seated Cable Row**   | Cable row machine   | 2 / 3 / 4              | 8–12 / 8–12 / 8–12    | 60–90 s | *Primary:* Middle/lower lats and rhomboids; *Secondary:* traps, biceps. Sit tall, pull handle to abdomen with shoulders back. Cue: “Drive elbows back, pinch blades.” Common mistakes: leaning forward, rounding shoulders, letting weight stack touch between reps. Good for controlled rowing and posture. |
+| **T-Bar Row**          | T-bar machine/bar in corner | 2 / 3 / 4        | 6–10 / 8–12 / 6–10    | 90–120 s| *Primary:* Lats and traps; *Secondary:* rhomboids, rear delts. With chest braced on pad or free, row weight to chest. Cue: “Pull elbows back to sides.” Avoid lifting too high or jerking. Great for heavy back strength. |
+| **Straight-Arm Pulldown** | Cable with straight bar | 2 / 3 / 4       | 10–15 / 10–15 / 10–15 | 60 s    | *Primary:* Lats; *Secondary:* teres major, rear delts. Stand, grip bar, keep arms mostly straight, hinge at hips. Pull bar down to thighs with shoulders driving motion. Cue: “Keep arms locked, pull from shoulders.” Mistakes: bending arms, using biceps. Good finishing move for lat stretch and mind-muscle. |
+| **Inverted Bodyweight Row** | Smith rack/bar at waist height | 3 / 3 / 4  | 8–12 / 8–12 / 10–15   | 60–90 s | *Primary:* Upper back (lats, traps, rhomboids); *Secondary:* biceps. Lie under bar, pull chest to bar. Cue: “Drive elbows to ceiling.” Keep body in straight plank. Mistakes: sagging hips. Can be done with feet elevated for intensity. Useful bodyweight back exercise. |
+| **Deadlift (Conventional)** | Barbell           | 2 / 3 / 4              | 5–8 / 5–8 / 3–5       | 120–180 s| *Primary:* Glutes, hamstrings, lower back; *Secondary:* entire back (traps, lats), forearms. Though full-body, deadlifts develop overall posterior chain including back width via traps and lats. Keep bar close, drive hips. Cue: “Brace core, drive feet into ground.” Mistakes: rounding back, hips too high. Best for strength (performed lightly or skipped for V-taper focus since it thickens trunk). |
+
+### Trapezius (Upper, Mid, Lower)
+
+| Exercise              | Equipment             | Sets (B/I/A)   | Reps (B/I/A)   | Rest   | Notes (Primary/Secondary, Goals, Cues)                                                              |
+|-----------------------|-----------------------|----------------|----------------|--------|-----------------------------------------------------------------------------------------------------|
+| **Barbell/Dumbbell Shrug** | Barbell or Dumbbells | 3 / 3 / 4   | 8–12 / 8–12 / 6–10 | 60 s | *Primary:* Upper traps (also middle). *Secondary:* spinal erectors (barbell). Stand tall, lift shoulders straight up, hold and lower. Cue: “Think shrugging toward ears, keep arms straight.” Common mistakes: rolling shoulders (instead shrug straight), bending knees. Good for trap mass and posture. |
+| **Face Pull (Cable Rope)** | Cable machine, rope | 3 / 3 / 4    | 10–15 / 12–15 / 12–15 | 60 s | *Primary:* Mid/lower traps, rear delts, rhomboids. Attach rope high, pull towards forehead with elbows flaring. Cue: “Pull elbows apart, squeeze shoulder blades.” Avoid leaning back; focus on squeezing upper back. Great for posture and scapular health. |
+| **Barbell Upright Row**   | Barbell (or EZ bar) | 2 / 3 / 3    | 8–12 / 8–12 / 6–10 | 60–90 s | *Primary:* Mid traps, lateral delts; *Secondary:* upper traps. Lift bar to chin with elbows high. Cue: “Elbows up, keep bar close.” Mistakes: lifting elbows too low or using too heavy weight (can impinge shoulders). Builds traps and delts. |
+| **Rack Pull (Partial Deadlift)** | Barbell, power rack | 2 / 3 / 3    | 5–8 / 5–8 / 3–5    | 90–120 s| *Primary:* Upper/mid traps; *Secondary:* glutes, lower back. From knee-height bar position, shrug/pull bar up focusing on back. Cue: “Hold lockout, squeeze shoulders.” Avoid jerking; keep tension in traps. Very heavy, trap-focused variant of deadlift. |
+| **Barbell/Dumbbell Farmer’s Walk** | Dumbbells or trap bar | 3 / 3 / 4 | 30–60 s walks | –      | *Primary:* Traps, forearms; *Secondary:* core. Simply walk carrying heavy weights at sides. Cue: “Stand tall, chest up, shoulders down.” Mistakes: slouching or hunching. Builds trap thickness and grip. |
+| **Deadlift (Heavy)**   | Barbell              | 2 / 3 / 4      | 3–5 / 3–5 / 1–3    | 120 s | *Primary:* Entire trapezius and posterior chain. Conventional or sumo deadlift loads traps along with glutes/hamstrings. Cue: “Keep bar close, lock spine.” Avoid rounding. Great total-body strength but thickens waist (avoid for narrow waist goals). |
+| **Overhead Shrug**     | Barbell or Dumbbells | 2 / 3 / 3      | 8–12 / 8–12 / 6–10 | 60 s | *Primary:* Upper traps; *Secondary:* shoulders. Press weight overhead and shrug at lockout (or press slightly less to emphasize traps). Cue: “Finish press by shrugging shoulders.” Warning: not to substitute full overhead press. Good finisher for trap and shoulder shrugging strength. |
+| **Dead Hang / Pull-Up Hold** | Pull-up bar  | 2 / 2 / 3      | 20–30 s / 30–45 s / 45–60 s | – | *Primary:* Traps (isometric) and grip. Hang with shoulders slightly scap-pulled, hold top of pull-up or simply hang. Cue: “Engage traps (down/back) and core.” Great for scapular control and trap endurance. |
+
+**Technique Steps, Mistakes & Cues (examples):** 
+
+- **Shrug (Dumbbell):** Stand upright holding dumbbells by sides. Step 1: Feet hip-width, core braced. Step 2: Without bending arms, lift shoulders straight up as if “shrugging at ears.” Step 3: Hold peak contraction (1–2s) squeezing traps. Step 4: Lower shoulders slowly. (*Common mistakes:* rolling shoulders forward/back, bending elbows). *Cue:* “Lift shoulders straight up – imagine pushing them toward your ears.”  
+- **Face Pull:** Step 1: Attach rope at high pulley. Step 2: Grip rope ends (palms facing each other) and step back. Step 3: Starting tall, pull rope toward your forehead, flaring elbows wide, squeezing shoulder blades. Step 4: Pause and return slowly. (*Mistakes:* leaning back too far, letting elbows drop). *Cue:* “Pull apart the rope, elbows out and back.”  
+- **Upright Row:** Step 1: Grip barbell at shoulder width with overhand grip. Step 2: Drive elbows straight up to shoulder level, keeping bar close to body. Step 3: Pause at top (elbows just above shoulders), then lower under control. (*Mistakes:* lifting too high (stop at chin level), rounding shoulders). *Cue:* “Lead with elbows, keep them higher than wrists.”  
+- **Rack Pull:** Step 1: Set bar at knee height on a rack. Stand so bar near shins, feet hip-width. Step 2: Hinge hips back, grab bar slightly wider than shoulders. Step 3: Brace core, pull through legs by extending hips, keeping back flat. Step 4: Squeeze traps at lockout. (*Mistakes:* jerking; rounding lower back). *Cue:* “Pretend to ‘wrap’ bar around legs and stand tall.”  
+
+### Rhomboids (Scapular Retractors)
+
+| Exercise               | Equipment          | Sets (B/I/A)   | Reps (B/I/A)   | Rest  | Notes (Primary/Secondary, Goals, Cues)                                               |
+|------------------------|--------------------|----------------|----------------|-------|--------------------------------------------------------------------------------------|
+| **Seated Cable Row**   | Cable row machine  | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 60 s | *Primary:* Rhomboids, middle traps, lats; *Secondary:* biceps. Pull handle to abdomen, pinching shoulder blades. Cue: “Row elbows back and together.” Avoid using momentum; stop short of leaning. Excellent all-level back thickness exercise. |
+| **Chest-Supported Dumbbell Row** | Incline bench + dumbbells | 2 / 3 / 4 | 8–12 / 8–12 / 6–10 | 60 s | *Primary:* Rhomboids, lats; *Secondary:* traps, biceps. Lying chest-down on bench, row DBs. Cue: “Lead pull with elbows, squeeze mid-back.” (*Mistakes:* letting chest lift off bench, shrugging). Provides stability to focus on back muscles. |
+| **Single-Arm Cable/Dumbbell Row** | Cable machine or bench + DB | 2 / 3 / 4 | 8–12 / 8–12 / 6–10 | 60 s | *Primary:* Rhomboids, lats; *Secondary:* traps, biceps. Pull weight toward hip with free body stance (as in one-arm DB row). Cue: “Pull elbow past torso, shoulder blade back.” Avoid twisting body. Helps correct imbalances. |
+| **Inverted (Supine) Row** | Bar in rack or TRX  | 3 / 3 / 4      | 8–12 / 8–12 / 10–15 | 60–90 s | *Primary:* Rhomboids, middle traps; *Secondary:* lats, biceps. Lie under bar, heels on floor, pull chest up. Cue: “Drive chest to bar, squeeze shoulder blades.” Keep body straight. Mistakes: hips sagging. Good bodyweight back exercise for all levels. |
+| **Band Pull-Apart / Face Pull (Band)** | Resistance band | 2 / 3 / 3   | 12–20 / 15–20 / 15–20 | 30–60 s | *Primary:* Rhomboids, posterior delts. With band held at chest height, pull hands apart keeping arms straight (or slight bend). Cue: “Pull band apart, pinch blades.” Mistakes: shrugging, partial range. Great warm-up/activation for scap retraction. |
+| **Low-to-High Cable/Band Row** | Cable or band (anchor low) | 2 / 3 / 3 | 10–15 / 10–15 / 10–15 | 60 s | *Primary:* Rhomboids (emphasizes upper back). Pull handle from low to high (diagonal). Cue: “Elbows back and up at ~45°”. Ensures scapular retraction plus a slight upward lift to engage rhomboids. |
+| **Reverse Fly (Machine or DB)** | Pec-deck or dumbbells | 2 / 3 / 4 | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Rhomboids, rear delts; *Secondary:* traps. With chest-supported on machine or bent-over with DBs, raise arms out to side. Cue: “Squeeze shoulder blades together at top.” Avoid swinging. Good isolation for rear shoulder/retractors. |
+| **Prone Y/I/T Raise**    | Bodyweight or light DB | 2 / 2 / 3   | 10–12 (each)      | 60 s | *Primary:* Lower traps, rhomboids; *Secondary:* rear delts. Lie face down on bench, lift arms in Y/T shapes. Cue: “Lift thumbs toward ceiling (external rotation).” Helps posture and lower trap activation. |
+| **Double-Arm Pull-Up** | Pull-up bar         | 2 / 3 / 4      | 5–8 / 6–10 / 6–10  | 90 s | *Primary:* Rhomboids and lats (scapular retraction). Perform pull-up focusing on initiating pull by squeezing shoulder blades down/back. Cue: “Engage upper back before pulling.” (A variation on pull-up to emphasize scapular control). |
+| **Rack Pull (High)**   | Barbell in rack    | 2 / 3 / 3      | 5–8 / 5–8 / 5–8    | 90–120 s| *Primary:* Rhomboids, traps. Similar to trap rack pulls but focus on squeezing mid-back at lockout. Cue: “At top, pinch blades and hold.” Heavy grip makes shoulders retract. |
+
+### Posterior Deltoid (Rear Shoulders)
+
+| Exercise              | Equipment             | Sets (B/I/A)   | Reps (B/I/A)     | Rest  | Notes (Primary/Secondary, Goals, Cues)                                        |
+|-----------------------|-----------------------|----------------|------------------|-------|-------------------------------------------------------------------------------|
+| **Dumbbell Rear Delt Fly** | Dumbbells (or Pec-dec) | 3 / 3 / 4    | 10–15 / 12–15 / 8–12 | 60 s | *Primary:* Posterior delts; *Secondary:* lats, traps, rhomboids. With torso bent or chest on incline bench, lift weights laterally. Cue: “Raise elbows high, squeeze back of shoulders.” Mistakes: lifting too heavy or using momentum. Key rear-delt isolation. |
+| **Face Pull**         | Cable + rope          | 3 / 3 / 4     | 12–15 / 12–15 / 12–15 | 60 s | *Primary:* Rear delts, traps; *Secondary:* rhomboids. (Technique same as above). Great for shoulder health and rear-delt hypertrophy. Cue: “Pull until rope at forehead, emphasize external rotation.” |
+| **Bent-Over Reverse Pec Deck** | Machine       | 2 / 3 / 3     | 10–15 / 12–15 / 8–12 | 60 s | *Primary:* Posterior delts. Sit facing pad, lift handles out to sides. Cue: “Keep chest on pad, pull hands back.” Avoid shrugging. Consistent tension on rear delts. |
+| **Single-Arm Cable Rear Delt Fly** | High pulley & handle | 2 / 3 / 4 | 12–15 / 12–15 / 10–12 | 60 s | *Primary:* Rear delts, rhomboid. Stand side-on, hold high cable with one hand, pull arm across body in wide arc. Cue: “Lead with elbow, keep arm slightly bent.” Good for unilateral training. |
+| **Barbell/Dumbbell Bent-Over Row** | Barbell or dumbbells | 2 / 3 / 4 | 8–12 / 8–12 / 6–10 | 90 s | *Primary:* Lats/traps; *Secondary:* rear delts. (Row technique as above). Emphasize pulling elbows wide at top to activate rear delts. Cue: “Imagine pulling elbows slightly out to side.” |
+| **Inverted Row (Horizontal Pull)** | Bar (feet elevated optional) | 3 / 3 / 4 | 8–15 / 8–15 / 10–20 | 60–90 s | *Primary:* Rear delts, middle traps. (As above inverted row, but focus on retracting shoulders and keeping elbows out at ~45°). Variation: pause at top and focus on squeezing rear delts. |
+| **Close-Grip Lat Pulldown** | Lat pulldown (narrow V-bar) | 2 / 3 / 3 | 8–12 / 8–12 / 6–10 | 60–90 s | *Primary:* Lats; *Secondary:* rear delts, biceps. Sit and pull bar to chest with elbows back. Cue: “Pull elbows down and back.” Engages rear delts when focus on squeezing back. |
+| **Seated Row – High Elbow** | Cable row machine | 2 / 3 / 3 | 8–12 / 8–12 / 6–10 | 60 s | *Primary:* Rear delts, middle traps. Perform row but keep elbows higher (toward shoulder level) to emphasize rear shoulder. Cue: “Bring elbows out wide.” |
+
+### Lateral Deltoid (Shoulder Width, V-Taper)
+
+| Exercise               | Equipment              | Sets (B/I/A)   | Reps (B/I/A)     | Rest  | Notes (Primary/Secondary, Goals, Cues)                                             |
+|------------------------|------------------------|----------------|------------------|-------|------------------------------------------------------------------------------------|
+| **Overhead Press (Barbell or DB)** | Barbell or Dumbbells  | 2 / 3 / 4   | 6–10 / 6–10 / 5–8 | 90–120 s | *Primary:* Deltoids (focus on front and side heads); *Secondary:* Triceps, traps. Standing press overhead engages medial delts for width. Cue: “Press straight up, think shoulders.” Avoid arching lower back. Foundation for shoulder strength. |
+| **Dumbbell Lateral Raise** | Dumbbells           | 3 / 3 / 4     | 10–15 / 10–15 / 8–12 | 60 s  | *Primary:* Lateral delts; *Secondary:* traps. Raise arms out to sides with slight bend. Cue: “Lead with elbows, light push.” Keep torso still. Common mistakes: swinging, too heavy, shrugging. Key for V-taper width and delt mass. |
+| **Machine Overhead Press** | Shoulder press machine | 2 / 3 / 4 | 8–12 / 8–12 / 6–10 | 90 s  | *Primary:* Lateral & anterior delts. (Variation of press with guided path). Provides safety and constant tension. |
+| **Arnold Press**        | Dumbbells              | 2 / 3 / 4     | 8–12 / 8–12 / 6–10 | 90 s  | *Primary:* All deltoid heads (emphasis on front and side). Start DBs at shoulders (palms facing you), rotate palms away as you press. Cue: “Rotate at top.” Avoid dropping elbows behind head at bottom. Great for full shoulder development. |
+| **Cable Lateral Raise** | Cable machine         | 2 / 3 / 4     | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Lateral delts. Stand side-on, attach single handle to low pulley, lift arm laterally. Cue: “Lead with thumb up.” Keeps constant tension.  |
+| **Upright Row (Wide Grip)** | Barbell/EZ bar   | 2 / 2 / 3     | 8–12 / 8–12 / 6–10 | 90 s | *Primary:* Lateral delts, traps. Using a wider grip emphasizes shoulders more than traps. Lift bar to chin with elbows out. Cue: “Think L-shaped motion.” Caution: not going too high to avoid impingement. |
+| **Push Press**         | Barbell               | 2 / 2 / 3     | 5–8 / 6–10 / 4–6  | 120 s | *Primary:* Lateral delts (with momentum); *Secondary:* legs, core, triceps. Slight leg drive helps move heavy load. Cue: “Dip and drive the bar up.” Great for advanced strength and shoulder power. |
+| **Lying Lateral Raise** | Dumbbells             | 2 / 3 / 4     | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Lateral delts. Lie on one side on bench, raise top arm. Cue: “Raise arm to ceiling, keep motion smooth.” Isolates lateral delt by removing torso involvement. |
+
+### Anterior Deltoid (Front Shoulders)
+
+| Exercise             | Equipment        | Sets (B/I/A)   | Reps (B/I/A)     | Rest  | Notes (Primary/Secondary, Goals, Cues)                            |
+|----------------------|------------------|----------------|------------------|-------|-------------------------------------------------------------------|
+| **Barbell/Dumbbell Bench Press** | Barbell or Dumbbells | 2 / 3 / 4 | 8–12 / 8–12 / 6–10 | 90–120 s | *Primary:* Chest; *Secondary:* Anterior delts, triceps. (Compound press.) Cue: “Drive through chest and shoulders.” Common mistakes: flaring elbows, arching back. Focus for overall upper body mass. |
+| **Incline Bench Press** | Barbell or Dumbbells | 2 / 3 / 4   | 8–12 / 8–12 / 6–10 | 90–120 s | *Primary:* Upper chest; *Secondary:* Anterior delts. Higher angle shifts emphasis toward front delts and clavicular chest. Cue: “Arms at ~45° as you press up.” Great for upper-body shape. |
+| **Seated Overhead Press** | Machine or Dumbbells | 2 / 3 / 4 | 6–10 / 6–10 / 5–8   | 90–120 s | *Primary:* Anterior delts; *Secondary:* triceps. Sit upright, press straight overhead. Cue: “Elbows under wrists, push straight.” Minimizes lumbar stress. |
+| **Cable Front Raise** | Cable machine   | 2 / 3 / 3     | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Anterior delts. Raise handle in front to eye level. Cue: “Lead with thumbs.” Avoid swinging or shoulder elevation. |
+| **Pike/Handstand Push-Up** | Bodyweight | 2 / 3 / 3 | 5–8 / 6–12 / 8–15 | 60–90 s | *Primary:* Anterior delts, upper chest; *Secondary:* triceps. Performed with feet elevated or against wall. Cue: “Bring head to floor, press up.” Excellent bodyweight shoulder builder. |
+| **Landmine Shoulder Press** | Barbell landmine | 2 / 3 / 4 | 8–12 / 8–12 / 6–10 | 90 s | *Primary:* Front delt; *Secondary:* triceps. Grip end of barbell, press at ~45° angle. Cue: “Keep core tight, press up and out.” Natural shoulder angle reduces strain. |
+| **Dumbbell Pullover (lying)** | Dumbbell, bench | 2 / 2 / 3 | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Lats and chest; *Secondary:* anterior delts. (Primarily back/chest exercise but also loads front shoulder). Lie on bench, sweep DB overhead. Cue: “Keep slight bend in elbows, stretch then pull back.” Good for chest/thorax. |
+
+### Clavicular (Upper) Pectoralis Major
+
+| Exercise              | Equipment         | Sets (B/I/A)   | Reps (B/I/A)     | Rest  | Notes (Primary/Secondary, Goals, Cues)                                                        |
+|-----------------------|-------------------|----------------|------------------|-------|-----------------------------------------------------------------------------------------------|
+| **Incline Barbell Press** | Barbell       | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90–120 s | *Primary:* Upper chest, anterior delts. (As above) Focus angle ~30–45°. Cue: “Press up along incline, squeeze chest.” Avoid flaring elbows too wide. Increases upper-chest development. |
+| **Incline Dumbbell Press** | Dumbbells    | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90–120 s | *Primary:* Upper chest; *Secondary:* front delts. Greater range than barbell. Cue: “Press dumbbells together at top.” Good for symmetry. |
+| **Low-to-High Cable Fly** | Cable machine | 2 / 3 / 3      | 10–15 / 10–15 / 8–12 | 60 s  | *Primary:* Upper chest, front delts. Stand facing low pulleys, bring handles upward and together. Cue: “Lead with elbows up.” Emphasizes upper-pectoral fibers. |
+| **Incline DB Fly**    | Dumbbells         | 2 / 3 / 4      | 10–15 / 12–15 / 8–12 | 60 s  | *Primary:* Upper chest. Lying on incline bench, arms wide, lift dumbbells together above chest. Cue: “Arc arms in and together.” Keep slight elbow bend. |
+| **Reverse-Grip Bench Press** | Barbell   | 2 / 3 / 3      | 8–12 / 8–12 / 6–10  | 90–120 s | *Primary:* Upper chest, front delts. (Reversing grip shifts load). Cue: “Grip bar palms-up, press normally.” Useful for upper-chest emphasis. |
+| **Cable Incline Press (standing)** | Cable, set high | 2 / 3 / 3  | 8–12 / 8–12 / 6–10 | 60 s | *Primary:* Upper chest. Stand facing away from cable, simulate incline bench motion. Cue: “Press forward and slightly upward.” Machines not needed. |
+
+### Sternal (Mid/Lower) Pectoralis Major
+
+| Exercise              | Equipment         | Sets (B/I/A)   | Reps (B/I/A)     | Rest  | Notes (Primary/Secondary, Goals, Cues)                                         |
+|-----------------------|-------------------|----------------|------------------|-------|-------------------------------------------------------------------------------|
+| **Flat Barbell Bench** | Barbell          | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90–120 s | *Primary:* Mid chest; *Secondary:* anterior delts, triceps. Cue: “Drive bar up from chest, pinch shoulder blades.” Avoid arching lower back. Foundation for chest mass. |
+| **Flat Dumbbell Press** | Dumbbells       | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90–120 s | *Primary:* Mid chest. Greater stretch and ROM than barbell. Cue: “Press dumbbells together.” Balance shoulders to avoid dips. |
+| **Chest Dip (leaning)** | Parallel bars   | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90 s  | *Primary:* Mid/lower chest; *Secondary:* triceps, front delts. Lean forward to emphasize chest. Cue: “Lean torso forward, lower chest between bars.” Mistakes: staying vertical (triceps). Excellent lower chest builder. |
+| **Cable Fly (Chest Height)** | Cable machine | 2 / 3 / 4  | 10–15 / 10–15 / 8–12 | 60 s  | *Primary:* Chest (mid and inner). Stand between high pulleys, bring handles in front at chest level. Cue: “Hug a tree” motion, squeeze at contraction. Keep arms slightly bent. |
+| **Push-Up**           | Bodyweight        | 2 / 3 / 4      | 10–15 / 15–20 / 15–20 | 60 s  | *Primary:* Chest; *Secondary:* delts, triceps. Cue: “Hands slightly wider than shoulders, chest to floor.” (Elevate feet for difficulty). Simple chest builder for all levels. |
+| **Decline Bench Press** | Barbell or DB   | 2 / 2 / 3      | 8–12 / 8–12 / 6–10  | 90–120 s | *Primary:* Lower chest; *Secondary:* triceps, front delts. Bench set decline angle (~15–30°). Cue: “Press down and back.” Targets lower pec fibers. |
+| **Machine Chest Press** | Chest press machine | 2 / 3 / 4  | 8–12 / 8–12 / 6–10  | 60–90 s | *Primary:* Chest (all heads). Like bench press in a guided path. Good for stable strength, beginners, or heavy loads. |
+
+### Triceps Brachii (All 3 Heads)
+
+| Exercise                | Equipment          | Sets (B/I/A)   | Reps (B/I/A)    | Rest   | Notes (Primary/Secondary, Goals, Cues)                                                    |
+|-------------------------|--------------------|----------------|-----------------|--------|-------------------------------------------------------------------------------------------|
+| **Close-Grip Bench Press** | Barbell          | 2 / 3 / 3      | 8–12 / 8–12 / 6–10 | 90–120 s | *Primary:* Triceps (all heads, emphasis on medial head); *Secondary:* chest, delts. Cue: “Hands ~shoulder-width, elbows in.” Press like normal. (Jeff Cavaliere notes this hits all heads.) Great heavy push movement. |
+| **Parallel-Bar Dip**    | Dip bars           | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90 s   | *Primary:* Triceps (all heads). Lean forward to add chest. Cue: “Keep body upright (triceps focus) or lean (chest/tris).” Mistakes: flaring elbows out. Excellent bodyweight strength. |
+| **Lying Triceps Extension (Skullcrusher)** | EZ-bar or Barbell | 2 / 3 / 4   | 8–12 / 8–12 / 6–10 | 90 s | *Primary:* Triceps (long head stretch emphasis). Lie on bench, lower bar to forehead (or behind head if focusing long head). Cue: “Keep elbows fixed, hinge at shoulders.” Use EZ-bar for wrist comfort. Boosts triceps hypertrophy. |
+| **Triceps Pushdown**   | Cable machine + bar/rope | 3 / 3 / 4 | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Triceps (lateral head emphasis). Using straight bar or rope, push down to full elbow extension. Cue: “Push hands down and apart (for rope).” Avoid leaning. Rope variant hits long/lateral heads.|
+| **Overhead Triceps Extension (Cable or DB)** | Cable machine / Dumbbell | 2 / 3 / 3 | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Triceps (long head). Sit or stand, press weight overhead by extending elbows. Cue: “Keep arms upright, point elbows forward.” For cable, use rope at low pulley. Stretches long head fully. |
+| **Diamond Push-Up**    | Bodyweight         | 2 / 3 / 4      | 10–12 / 12–15 / 12–15 | 60 s | *Primary:* Triceps (all heads, lateral focus). Hands close together under chest forming diamond. Cue: “Lower chest to hands, elbows tight.” Great finisher for triceps. |
+| **Kickback (DB)**      | Dumbbell           | 2 / 3 / 3      | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Triceps (lateral head). Bend over, keep upper arm parallel to body, extend elbow. Cue: “Lock elbow, push weight back.” Mistakes: swinging arms or using momentum. Isolation move for triceps. |
+| **JM Press (Close EZ Press)** | EZ-bar      | 2 / 2 / 3      | 6–10 / 6–10 / 5–8   | 90 s   | *Primary:* Triceps (all heads). Similar to narrow press; start hands under mid-chest. Bend elbows back toward head, then push up. Cue: “Keep elbows tucked as you lower.” Emphasizes triceps while reducing shoulder stress. |
+| **Diamond Stability Ball Push-Up** | Bodyweight + stability ball | 2 / 2 / 3 | 10–12 / 12–15 / 12–15 | 60 s | *Primary:* Triceps, plus core. Feet or knees on ball, hands in diamond. Cue: “Keep body rigid as you push.” Adds instability for core engagement while hitting triceps. |
+
+*(Jeff Cavaliere recommends the EZ-bar skullcrusher as a top overall triceps exercise because it allows heavy loading safely.)*
+
+### Biceps Brachii (Long Head for Peak, Short Head for Width)
+
+| Exercise               | Equipment            | Sets (B/I/A)   | Reps (B/I/A)    | Rest  | Notes (Primary/Secondary, Goals, Cues)                                             |
+|------------------------|----------------------|----------------|-----------------|-------|------------------------------------------------------------------------------------|
+| **Barbell (or EZ) Curl** | Barbell or EZ-bar   | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90 s  | *Primary:* Biceps (both heads); *Secondary:* brachialis. Cue: “Keep elbows pinned, curl up.” Use strict form. Classic mass builder. |
+| **Alternating Dumbbell Curl** | Dumbbells    | 2 / 3 / 4      | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Biceps (both heads). Cue: “Twist (supinate) wrist at top for full contraction.” Avoid swinging. Good unilateral training. |
+| **Hammer Curl**        | Dumbbells           | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 60 s  | *Primary:* Brachialis & brachioradialis; *Secondary:* biceps. Hold DBs with thumbs up. Cue: “Keep wrists neutral, squeeze forearm.” Develops arm thickness and forearms. |
+| **Preacher Curl**      | EZ-bar on preacher bench | 2 / 3 / 3  | 8–12 / 8–12 / 6–10 | 60 s  | *Primary:* Biceps short head (inner biceps). Eliminate body swing by bracing arms on pad. Cue: “Curl to shoulders, pause.” Avoid going too low (keep tension). |
+| **Incline Dumbbell Curl** | Dumbbells       | 2 / 2 / 3      | 8–12 / 8–12 / 6–10 | 60 s  | *Primary:* Biceps long head (outer biceps). Per [63], incline curls highly activate long head (biceps peak). Sit on incline bench, curl arms. Cue: “Keep elbows back, full stretch.” Good for peak. |
+| **Concentration Curl** | Dumbbell (seated)    | 2 / 3 / 4      | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Biceps (both heads, emphasis on long head). Sit, elbow on inner thigh, curl DB. Cue: “Pull with elbow, squeeze at top.” Strict form isolates biceps, great mind-muscle connection. |
+| **Cable Curl (Wide Grip)** | Cable machine   | 2 / 3 / 3      | 8–12 / 8–12 / 6–10 | 60 s  | *Primary:* Biceps short head (inner). Use a wide grip bar on low pulley. Cue: “Keep elbows close, curl up.” Targets width. |
+| **Chin-Up (Underhand)** | Pull-up bar        | 2 / 3 / 4      | 5–8 / 6–10 / 6–10  | 90 s  | *Primary:* Biceps (all heads) and lats. (See lat section.) Emphasize biceps by pulling elbows down. Cue: “Lead with chest.” Great compound arm/back movement. |
+| **Zottman Curl**       | Dumbbells           | 2 / 3 / 3      | 8–12 / 8–12 / 6–10 | 60 s  | *Primary:* Biceps (both heads) and forearms. Curl up supinated, then lower palms down. Cue: “Rotate at top, slow descent.” Builds overall arm thickness. |
+
+### Brachialis & Brachioradialis (Arm Thickness)
+
+| Exercise               | Equipment         | Sets (B/I/A)   | Reps (B/I/A)    | Rest  | Notes (Primary/Secondary, Goals, Cues)                                                      |
+|------------------------|-------------------|----------------|-----------------|-------|---------------------------------------------------------------------------------------------|
+| **Hammer Curl**        | Dumbbells         | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 60 s | *Primary:* Brachialis & brachioradialis. (See above biceps table.) Great for sleeve-filling. |
+| **Reverse Grip Curl**  | Barbell or EZ-bar | 2 / 3 / 3      | 8–12 / 8–12 / 6–10 | 60 s | *Primary:* Brachialis (prime) & brachioradialis; *Secondary:* biceps short head. Grip bar pronated (palms down) and curl. Cue: “Keep elbows fixed, lift with forearms.” Strengthens forearm flexors and thickens upper arm. |
+| **Reverse Curl (Cable or Bar)** | Cable/bell | 2 / 3 / 4 | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Brachialis & brachioradialis. Similar to above, using cable for constant tension. |
+| **Wrist Curl (Supinated & Pronated)** | Barbell/db | 2 / 2 / 3    | 12–15 / 15–20 / 15–20 | 45 s | *Primary:* Forearms. Sit forearms on bench, curl wrists up (palm-up) and/or down (palm-down). Builds overall forearm muscle (brachioradialis contributes at elbow flex). |
+| **Farmer’s Walk**      | Dumbbells or Trap Bar | 2 / 3 / 4   | 30–60 s walks   | –     | *Primary:* Grip and forearms. (See traps table.) Holding heavy weights taxes forearm muscles isometrically. Cue: “Grip tight, shoulders back.” Simple but very effective. |
+
+### Quadriceps (4 Heads: Rectus Femoris, Vastus Lateralis/Medialis/Intermedius)
+
+| Exercise               | Equipment           | Sets (B/I/A)   | Reps (B/I/A)    | Rest   | Notes (Primary/Secondary, Goals, Cues)                                                   |
+|------------------------|---------------------|----------------|-----------------|--------|------------------------------------------------------------------------------------------|
+| **Barbell Back Squat** | Barbell, rack       | 2 / 3 / 4      | 8–12 / 6–10 / 4–8 | 120 s | *Primary:* Quadriceps (all heads); *Secondary:* glutes, hamstrings. Standard for leg strength/mass. Cue: “Chest up, push through heels, knees tracking toes.” Mistakes: knees caving, rounding back. Fundamental lower-body exercise. |
+| **Front Squat**        | Barbell             | 2 / 3 / 3      | 6–10 / 6–10 / 4–8  | 120 s | *Primary:* Quadriceps (more emphasis on quads than back squat). Keep elbows up. Cue: “Drive elbows up to hold bar.” Engages core, easier on back. |
+| **Leg Press**          | Leg press machine   | 2 / 3 / 4      | 10–15 / 10–15 / 8–12 | 90 s | *Primary:* Quadriceps; *Secondary:* glutes, hamstrings. Cue: “Push with whole foot, control descent.” Keep hips down. Good for heavy quad loading safely. |
+| **Bulgarian Split Squat** | Barbell or DB    | 2 / 3 / 4      | 8–12 each leg / 8–12 / 6–10  | 90 s | *Primary:* Quadriceps; *Secondary:* glutes. One foot elevated behind on bench. Cue: “Knee forward over toes, drop straight down.” Challenges balance and single-leg strength. |
+| **Goblet Squat**      | Dumbbell or Kettlebell | 2 / 3 / 4     | 10–15 / 12–15 / 8–12 | 60–90 s | *Primary:* Quads; *Secondary:* glutes, core. Hold weight at chest. Cue: “Sit back between knees, keep chest tall.” Good for beginners to learn squat form. |
+| **Walking Lunges**    | Dumbbells/barbell    | 2 / 3 / 4      | 10–12 steps / 10–12 / 8–10 | 60–90 s | *Primary:* Quads; *Secondary:* glutes, hamstrings. Step forward lunge repeatedly. Cue: “Step far enough that knee stays above ankle.” Great functional leg exercise. |
+| **Leg Extension**     | Leg extension machine | 2 / 3 / 4    | 10–15 / 12–15 / 8–12  | 60 s  | *Primary:* Quadriceps isolation. Sit and extend knees. Cue: “Fully extend and squeeze quads.” Avoid locking knees or using momentum. Finishes quad workout. |
+| **Step-Up (High Box)** | Box or bench       | 2 / 3 / 3      | 10–12 each leg / 10–12 / 8–10 | 60 s | *Primary:* Quads, glutes; *Secondary:* hamstrings. Drive up onto box leading with one leg. Cue: “Push through heel of front foot.” Adds stability and balance training. |
+| **Sissy Squat**       | Bodyweight (or using support) | 2 / 2 / 3  | 8–12 / 8–12 / 6–10 | 60 s  | *Primary:* Quadriceps (VMO emphasis). Lean back with knees forward, then return. Cue: “Keep torso straight, bend knees deeply.” Advanced quad finisher; do carefully to avoid knee stress. |
+
+### Hamstrings
+
+| Exercise               | Equipment           | Sets (B/I/A)   | Reps (B/I/A)    | Rest  | Notes (Primary/Secondary, Goals, Cues)                                                 |
+|------------------------|---------------------|----------------|-----------------|-------|---------------------------------------------------------------------------------------|
+| **Romanian Deadlift**  | Barbell             | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90 s | *Primary:* Hamstrings, glutes; *Secondary:* lower back. From standing, hinge at hips lowering bar to knees or mid-shin. Cue: “Push hips back, keep spine neutral.” Only slight knee bend. (*Mistakes:* rounding back, knees too bent.) Heavy hamstring-strengthener. |
+| **Leg Curl (Lying or Seated)** | Leg curl machine | 2 / 3 / 4 | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Hamstrings. Lying: lie face down, curl heels to glutes. Seated: sit, curl calves back. Cue: “Squeeze hamstrings, control extension.” Isolation for hamstring hypertrophy. |
+| **Glute-Ham Raise**    | Glute-ham bench    | 2 / 3 / 3      | 6–10 / 6–10 / 5–8  | 90 s | *Primary:* Hamstrings and glutes. Anchor feet, lower torso to floor slowly, then raise back up using hamstrings. Cue: “Use hamstrings to pull up, keep back straight.” Very challenging; start with assistance/bands. |
+| **Nordic Ham Curl**    | (Pads or held at ankles) | 2 / 2 / 3  | 6–8 / 6–10 / 5–8 | 90 s | *Primary:* Hamstrings. Kneel, ankles anchored, slowly lower chest to ground (eccentric), push up. Cue: “Go slowly, catch yourself mid-low.” Extremely intense eccentric; use assistance as needed. |
+| **Cable Pull-Through** | Low cable, rope    | 2 / 3 / 4      | 10–12 / 10–12 / 8–10 | 60 s | *Primary:* Hamstrings, glutes. Stand facing away, rope between legs, hinge hips to pull handle through. Cue: “Push hips back, squeeze glutes as you stand.” Mimics hip thrust motion with constant tension. |
+| **Good Morning**       | Barbell           | 2 / 3 / 3      | 8–12 / 8–12 / 6–10 | 90 s | *Primary:* Hamstrings (and spinal erectors). Bar on back, hinge at hips lowering torso forward. Cue: “Push hips back, keep lower back flat.” Use light weight initially. Great hip-hinge variation. |
+| **Kettlebell Swing**   | Kettlebell         | 2 / 3 / 4      | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Hamstrings, glutes; *Secondary:* back, core. Swing KB from between legs up to chest level with hip drive. Cue: “Snap hips, contract glutes at top.” Also a conditioning movement. |
+
+### Gluteus Maximus (Glutes)
+
+| Exercise               | Equipment       | Sets (B/I/A)   | Reps (B/I/A)    | Rest   | Notes (Primary/Secondary, Goals, Cues)                                                |
+|------------------------|-----------------|----------------|-----------------|--------|---------------------------------------------------------------------------------------|
+| **Barbell Back Squat** | Barbell, rack   | 2 / 3 / 4      | 8–12 / 6–10 / 4–8 | 120 s | *Primary:* Glutes (and quads). (See squat above.) Depth loads glutes. Cue: “Sit back as if onto a chair.”  |
+| **Deadlift (Conventional/Sumo)** | Barbell | 2 / 3 / 3   | 5–8 / 5–8 / 3–5 | 120–180 s | *Primary:* Glutes (and hamstrings). Sumo stance stresses glutes. Cue: “Drive hips forward at top.” Build strength/power; however, also thickens core (skip for taper). |
+| **Hip Thrust**         | Barbell, bench  | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90 s | *Primary:* Glutes (with hip extension); *Secondary:* hamstrings. Upper back on bench, barbell across hips. Thrust hips up fully. Cue: “Drive through heels, squeeze glutes at top.” (*Mistakes:* overextending low back). Best pure glute growth exercise. |
+| **Bulgarian Split Squat** | DBs or bar   | 2 / 3 / 4      | 8–12 / 8–12 / 6–10 | 90 s | *Secondary:* Glutes (primary quads). (As above in quads section.) Emphasize pushing up with front leg glutes. |
+| **Glute Bridge (Weighted)** | Barbell/Dumbbell on hips | 2 / 3 / 3 | 10–15 / 10–15 / 8–12 | 60 s | *Primary:* Glutes. Lying on back, knees bent, thrust hips up with weight on pelvis. Cue: “Press through heels, lift hips.” Good beginner glute exercise. |
+| **Step-Up**           | Box/bench + DBs  | 2 / 3 / 3      | 10–12 / 10–12 / 8–10 | 60 s | *Secondary:* Glutes (primary quads). (See quads). Focus on driving with glute of lead leg. |
+| **Cable Pull-Through** | Cable, rope    | 2 / 3 / 3      | 10–15 / 10–15 / 8–12 | 60 s | *Secondary:* Glutes (primary hamstrings). (See hamstrings). Good hip-thrust alternative. |
+| **Kettlebell Swing**   | Kettlebell     | 2 / 3 / 4      | 10–15 / 10–15 / 8–12 | 60 s | *Secondary:* Glutes. (See hamstrings.) Strong hip extension also targets glutes. |
+
+### Calves (Gastrocnemius & Soleus)
+
+| Exercise              | Equipment           | Sets (B/I/A)   | Reps (B/I/A)   | Rest  | Notes (Primary/Secondary, Goals, Cues)                                                               |
+|-----------------------|---------------------|----------------|----------------|-------|------------------------------------------------------------------------------------------------------|
+| **Standing Calf Raise** | Smith machine or machine | 3 / 4 / 4   | 10–15 / 12–20 / 12–20 | 60 s | *Primary:* Gastrocnemius (foot extended). Stand with balls of feet on step/rack, lift heels. Cue: “Push through big toe, hold top.” Deep stretch at bottom. |
+| **Seated Calf Raise**   | Seated calf machine or seated with weight | 3 / 3 / 4 | 12–15 / 15–20 / 15–20 | 60 s | *Primary:* Soleus (foot bent). Sitting with weight on knees, lift heels. Cue: “Push through heels.” Focuses on lower calf head. |
+| **Donkey Calf Raise**  | Machine or partner-assisted | 3 / 3 / 4 | 10–15 / 12–20 / 12–20 | 60 s | *Primary:* Gastrocnemius. Bend at hips with weight on lower back, lift heels. Cue: “Press up onto toes fully.” Heavy version of calf raise. |
+| **Jump Rope (Various Paces)** | Jump rope | 1 / 1 / 1     | 60 s / 60 s / 60 s | –     | *Primary:* Calves (endurance). Continuous jumping (on toes). Cue: “Keep toes pointed, light impact.” Great for conditioning calves. |
+| **Hill Sprints / Stair Sprints** | Bodyweight | 1 / 2 / 2 | 4–6 sprints / 4–6 / 6–8 | – | *Primary:* Calves (and legs). Running up incline engages calves forcibly. High intensity, good for fast-twitch calves. |
+| **Farmers Walk on Toes** | Dumbbells        | 2 / 2 / 3      | 30–60 s walk    | –     | *Primary:* Calves and entire lower leg. (Carry weight on balls of feet and walk). Cue: “Stand tall, rise onto toes and walk.” Great for overall calf and core stability. |
+
+### Transverse Abdominis (Deep Core, Waist Cinching)
+
+| Exercise                | Equipment            | Sets (B/I/A)  | Reps (B/I/A)  | Rest  | Notes (Primary/Secondary, Goals, Cues)                                              |
+|-------------------------|----------------------|---------------|---------------|-------|-------------------------------------------------------------------------------------|
+| **Plank**               | Bodyweight           | 3 / 3 / 4     | 30–60 s / 45–60 s / 60–90 s | – | *Primary:* Transverse abdominis, entire core. From prone, hold body straight. Cue: “Pull belly button toward spine.” Keep hips level. Foundation core stability exercise. |
+| **Dead Bug**            | Bodyweight           | 2 / 3 / 3     | 10–15 / 10–15 / 10–20 each side | 30 s | *Primary:* Transverse abdominis. Lying on back, lower opposite arm/leg. Cue: “Press low back into floor.” Reinforces lumbo-pelvic control with limb movement. |
+| **Pallof Press**        | Cable or band        | 3 / 3 / 4     | 8–12 / 10–12 / 10–15 each side | 30 s | *Primary:* Transverse abdominis (anti-rotation). Stand side-on to anchor, press handle straight out to lockout. Cue: “Brace core, don’t rotate.” Excellent anti-twist core exercise. |
+| **Ab Wheel Rollout**    | Ab wheel             | 2 / 3 / 3     | 6–10 / 8–12 / 8–15  | 60 s | *Primary:* Transverse abdominis, rectus. From kneeling, roll wheel forward/return. Cue: “Keep back flat, avoid sagging.” (Avoid if low back issues.) Builds deep core strength. |
+| **Stomach Vacuum**      | Bodyweight (standing or kneeling) | 3 / 3 / 4 | 10–15 / 10–15 / 10–20 | – | *Primary:* Transverse abdominis (isometric). Inhale then exhale fully, suck belly button toward spine. Hold for reps. *Cue:* “Think hollow your core.” Improves deep abdominal activation and waist control. |
+| **Side Plank (modified)** | Bodyweight        | 2 / 3 / 3     | 20–40 s / 30–45 s / 45–60 s each side | – | *Secondary:* Obliques minimal as it also works TA. Extend from elbow or straight arm. Cue: “Keep hips high, press through forearm.” Builds lateral core stability without heavy oblique bulking. |
+
+### Rectus Abdominis (Front Core, Avoiding Obliques)
+
+| Exercise              | Equipment           | Sets (B/I/A)  | Reps (B/I/A)     | Rest  | Notes (Primary/Secondary, Goals, Cues)                                |
+|-----------------------|---------------------|---------------|------------------|-------|-----------------------------------------------------------------------|
+| **Crunch (Cable or Floor)** | Cable pulley / Floor mat | 3 / 3 / 4 | 15–20 / 15–20 / 15–25 | 30 s | *Primary:* Rectus abdominis. On floor or kneeling cable crunch. Cue: “Exhale, curl shoulders to pelvis.” Keep movement isolated (no neck pull).  |
+| **Hanging Leg Raise (Bent Knees)** | Pull-up bar | 2 / 3 / 3     | 10–15 / 12–15 / 12–20 | 60 s | *Primary:* Lower rectus. Hang and lift knees to chest. Cue: “Use abs, don’t swing.” Controls hip flexor involvement. |
+| **Ab Wheel Rollout (kneeling)** | Ab wheel    | 2 / 3 / 3     | 8–12 / 8–12 / 6–10  | 60 s | *Primary:* Rectus (with TA). (See above under TA). Great front-ab core challenge. |
+| **Reverse Crunch**     | Bodyweight (floor)| 2 / 3 / 4     | 15–20 / 15–20 / 15–25 | 30 s | *Primary:* Lower rectus. Lying flat, lift pelvis/knees. Cue: “Peel hips off floor using abs.” Keep motion controlled. |
+| **Lying Windshield Wipers (legs only)** | Bodyweight | 2 / 2 / 3     | 10–12 / 12–15 / 10–15 (each way) | 60 s | *Primary:* Rectus and deep abs; minimal oblique engagement if legs kept together. Lie supine, raise legs perpendicular, rotate legs side to side in controlled arc. Cue: “Keep shoulders on floor, move only hips.” (Unlike full windshield wipers, this avoids oblique twist.) |
+| **Cable Crunch (High Pulley)** | Cable machine | 2 / 3 / 3  | 10–15 / 12–15 / 8–12 | 60 s | *Primary:* Rectus. Kneel facing cable, hold rope at head height, crunch down. Cue: “Curl torso down, keep hips fixed.” Heavier loading possible for hypertrophy. |
+
+### Forearms
+
+| Exercise               | Equipment           | Sets (B/I/A)  | Reps (B/I/A)    | Rest | Notes (Primary/Secondary, Goals, Cues)                                          |
+|------------------------|---------------------|---------------|-----------------|------|---------------------------------------------------------------------------------|
+| **Barbell Wrist Curl** | Barbell            | 2 / 3 / 3     | 12–15 / 15–20 / 15–20 | 60 s | *Primary:* Forearm flexors (palmaris longus, flexors). Sit with forearms on thighs, palms up, curl bar toward body. Cue: “Roll bar toward forearms.” Builds forearm size. |
+| **Reverse Wrist Curl** | Barbell or EZ-bar   | 2 / 3 / 3     | 12–15 / 15–20 / 15–20 | 60 s | *Primary:* Forearm extensors (brachioradialis). (Same position but palms down.) Cue: “Lift knuckles toward forearm.” |
+| **Hammer Curl**        | Dumbbells          | 2 / 3 / 4     | 8–12 / 8–12 / 6–10 | 60 s  | *Primary:* Brachialis, brachioradialis (forearm thickness). (From biceps table.) |
+| **Farmer’s Walk**      | Heavy Dumbbells/Trap Bar | 2 / 3 / 3 | 30–60 s walk   | –    | *Primary:* Grip and forearm muscles. (See trap section.) |
+| **Towel Pull-Up / Hangs** | Pull-up bar + towel | 2 / 2 / 3     | 10–15 / 10–20 / 15–20 s hang | – | *Primary:* Forearms (grip). Hang or do pull-ups gripping towel slung over bar. Cue: “Grip as tight as possible.” Very taxing on forearm grip strength. |
+| **Plate Pinch**       | Weight plates      | 2 / 2 / 3     | 20–30 s hold    | –    | *Primary:* Forearms, grip. Pinch heavy plates together with fingers. Cue: “Pinch and hold tight.” Simple isometric forearm builder. |
+
+*All programming recommendations (sets, reps, rest) are guidelines. Beginners should start at lower end of volume and focus on perfect form. Advanced trainees should use heavier loads, more intensity techniques, and adjust volume for recovery. For hypertrophy, aim for ~8–12 reps, and for strength 3–6 reps with heavier weight.*
+
+# Part B: Goal-Specific Training Programs
+
+Below are example periodized programs for each goal, including splits, weekly schedules, phases (progression over weeks), daily exercise plans with sets×reps×rest, progressive overload rules, advanced techniques, exercises to avoid, and deload strategies.
+
+---
+
+## 1. Aesthetic V-Taper (Wide Shoulders/Back, Narrow Waist)
+
+- **Focus:** Build shoulder width (lateral delts, traps), lat width, and keep waist lean. **Avoid heavy oblique or anterior core loading** (e.g. heavy barbell squats, deadlifts) that increase intra-abdominal pressure and may “thicken” the midsection.
+- **Training Split:** 4–5 days with emphasis on upper body width:
+  - **Example Split:**  
+    - Monday: Shoulders (primary) + Upper Back (lats)  
+    - Tuesday: Lower Body (glutes/hamstrings focus, minimal lumbar flexion)  
+    - Wednesday: Rest or Active Recovery (light mobility/stretch)  
+    - Thursday: Shoulders (again) + Lats/Upper Back  
+    - Friday: Chest/Arms (light on abs)  
+    - Saturday: Optional Full Back + Core (light)  
+    - Sunday: Rest  
+
+- **Weekly Schedule:** E.g., M: Pull/Shoulder, T: Legs, W: Rest, Th: Pull/Shoulder, F: Push, Sa: Full Back/Core, Su: Rest.
+- **Phase Structure:**  
+  - *Phase 1 (Weeks 1–4):* Foundation (moderate volume). Focus on mastering technique and moderate weights; avoid muscle imbalances.  
+  - *Phase 2 (Weeks 5–8):* Progressive overload (increase weight or volume). Introduce intensity techniques (e.g. drop sets on last set of flyes or lateral raises).  
+  - *Phase 3 (Weeks 9–12):* Advanced hypertrophy (higher volume/intensity). Add supersets and rest-pause on accessory work.  
+
+- **Daily Workouts (example):**  
+  - *Monday (Shoulders/Back):*  
+    1. Barbell Overhead Press – 4×6–8 (90 s)  
+    2. Pull-Ups (wide grip) – 4×6–10 (90 s)  
+    3. Dumbbell Lateral Raise – 3×12–15 (60 s)  
+    4. Cable Face Pull – 3×12–15 (60 s)  
+    5. Straight-Arm Pulldown – 3×12–15 (60 s)  
+    6. Plank – 3×45–60 s (–)  
+
+  - *Thursday (Shoulders/Back):*  
+    1. Dumbbell Arnold Press – 4×8–10 (90 s)  
+    2. Lat Pulldown (wide grip) – 4×8–12 (90 s)  
+    3. Seated Cable Row – 3×8–12 (60 s)  
+    4. Dumbbell Rear Delt Fly – 3×12–15 (60 s)  
+    5. Hammer Curl – 3×10–12 (60 s)  
+    6. Pallof Press – 3×10–12 (each side) (30 s)  
+
+  - *Saturday (Optional Chest/Back/Core):*  
+    1. Incline Bench Press – 3×8–12 (90 s)  
+    2. T-Bar Row – 3×8–12 (90 s)  
+    3. Dumbbell Fly – 2×12–15 (60 s)  
+    4. Cable Pull-Through – 3×10–12 (60 s)  
+    5. Ab Wheel Rollout – 3×8–10 (60 s)  
+
+  (*Leg days focus on posterior chain and glutes, avoiding heavy squats. For example, Romanian Deadlift, Bulgarian Split Squat, Leg Curl, Glute Bridge, and light calf work.*)
+
+- **Progressive Overload:**  
+  - *Phase 1:* Double progression – begin at lower rep (e.g. 6) and add reps each week until top (e.g. 10–12), then increase weight.  
+  - *Phase 2:* Linear weight progression on compound lifts (e.g. +2.5–5% each week) while maintaining rep range. Use RPE (Rate of Perceived Exertion) ~7–8 in early sets.  
+  - *Phase 3:* Increase total volume (more sets or exercises) and use drop sets/giant sets on last sets of some exercises.  
+
+- **Advanced Techniques:** Supersets (e.g. shoulder press + lateral raise), drop sets on lateral raises or pull-downs, rest-pause on final push-up set, partial reps for wide grip pull-down, mechanical drop (e.g. wide-grip pull-ups to chin-ups). EMOM push-ups for conditioning and core stability.  
+- **Avoid:** Heavy barbell squats and deadlifts (they increase intra-abdominal pressure and can “thicken” the waist). Direct oblique-loading exercises (e.g. heavy side bends, twisting crunches) – stick to front-only core moves or anti-rotation drills. As noted by experts, excessive oblique work counteracts a narrow waist aesthetic. Instead, use vacuum exercises and planks for a cinched waist. Heavy overhead press can also widen ribs/trunk; use moderate loads and strict technique.  
+- **Deload Strategy:** Every 6–8 weeks take a deload week (reduce volume 50% or intensity 40–60%). For example, cut weights by ~50% but do same exercises with light reps, or halve sets for upper body. Light cardio/stretching can replace heavy lifts. According to ACSM recommendations, even bodybuilders should deload roughly every 6–8 weeks to avoid overtraining.  
+
+*(Sources: ACSM guidelines recommend heavy loads for strength (~80%1RM) and ample volume for hypertrophy. Avoiding oblique hypertrophy is advised for V-taper aesthetics. Sweeping evidence shows training shoulders/back twice weekly is effective for growth.)*
+
+---
+
+## 2. Classic Bodybuilder (Symmetrical Mass)
+
+- **Focus:** Maximize overall muscle hypertrophy with balanced development. Train all muscle groups with variety and high volume. Include both compound and isolation exercises.  
+- **Training Split:** 5- or 6-day “bro-split” or upper/lower split to target muscle groups twice per week.  
+  - **Example (6-day Push/Pull/Legs):**  
+    - Mon: Chest + Abs  
+    - Tue: Back + Calves  
+    - Wed: Legs (Quads/Glutes) + Abs  
+    - Thu: Shoulders + Traps + Abs  
+    - Fri: Arms (Biceps/Triceps) + Calves  
+    - Sat: Full Body or Weak Point focus + Ab work  
+    - Sun: Rest/Active Recovery  
+
+- **Weekly Schedule:** E.g., PPL/rest, repeating twice (6 days) then 1 rest.  
+- **Phase Structure:**  
+  - *Phase 1 (Weeks 1–4):* Moderate load (8–12 rep range) with high volume (~3–4 exercises per muscle). Establish technique and endurance.  
+  - *Phase 2 (Weeks 5–8):* Increase weight or volume (e.g. +1 set per exercise) for progressive overload. Introduce supersets (antagonistic like chest-back) and drop sets on last set of isolation movements.  
+  - *Phase 3 (Weeks 9–12):* Peak hypertrophy – use advanced techniques (giant sets, rest-pause) on lagging body parts, vary rep schemes (6–12).  
+
+- **Daily Workouts (example)**:  
+  - *Monday (Chest + Abs):* Bench Press 4×8–12; Incline Dumbbell Press 3×8–12; Pec Deck Fly 3×12–15; Cable Crossover 3×12–15; Hanging Leg Raise 3×15–20.  
+  - *Tuesday (Back + Calves):* Deadlift 4×5–8; Pull-Up 4×8–12; Barbell Row 3×8–12; Seated Cable Row 3×8–12; Standing Calf Raise 4×15–20.  
+  - *Wednesday (Legs + Abs):* Barbell Squat 4×8–12; Leg Press 3×12–15; Lying Leg Curl 3×10–15; Bulgarian Split Squat 3×10 each; Plank 3×60 s.  
+  - *Thursday (Shoulders/Traps + Abs):* Overhead Press 4×8–12; Lateral Raise 3×12–15; Face Pull 3×12–15; Dumbbell Shrug 3×10–12; Cable Crunch 3×12–15.  
+  - *Friday (Arms + Calves):* Close-Grip Bench Press 3×8–12; EZ-Bar Curl 3×8–12; Skullcrusher 3×10–12; Hammer Curls 3×10–12; Seated Calf Raise 4×15–20.  
+  - *Saturday (Weak Point/Full Body):* e.g. Chest flyes, rows, ab-wheel, curls, hip thrust – targeting any lagging areas with 3–4 exercises.  
+
+- **Progressive Overload:** Weekly or bi-weekly increases in weight or reps. Use double progression (hit upper rep range before adding load). Log weights and strive to beat past performance. RPE should reach ~8–9 on final sets. Vary set/rep schemes (periodize 12→8 rep ranges over phases).  
+- **Advanced Techniques:** Common in bodybuilding: **Supersets** (agonist/antagonist, e.g. biceps/triceps back-to-back), **Giant Sets** (3+ exercises for same muscle, e.g. chest press→fly→push-up). **Drop Sets** on last set of isolation (dumbbell flies, cable curls) to fully fatigue muscle. **Rest-Pause** sets (brief rests to squeeze extra reps). **Partial reps and burns** at failure. EMOM training occasionally (e.g. 1 chin-up/min) for conditioning.  
+- **Avoid:** In general bodybuilding has no strict forbiddances, but safety: avoid ego-lifting (e.g. extremely heavy deadlifts with bad form). Also minimize excessive cardio that can impede muscle gain.  
+- **Deload:** Every 4–8 weeks reduce load or volume. For example, take one week to cut sets in half or use ~50% normal weight (as recommended by ACSM practice). Listen to fatigue; signs like persistent soreness or strength loss mean a deload week is due.
+
+*(ACSM guidelines endorse ≥10 weekly sets per muscle group for hypertrophy, consistent with high-volume bodybuilding splits. Advanced techniques boost metabolic stress (some evidence drop sets can increase hypertrophy).)*
+
+---
+
+## 3. Powerlifting / Strength (Squat, Bench, Deadlift Focus)
+
+- **Focus:** Maximize 1RM strength in squat, bench, deadlift. Secondary aim to build overall power and muscle mass. Minimal isolation work; primary on heavy compound lifts.  
+- **Training Split:** 3–4 day split concentrating on main lifts multiple times/week. Common splits:  
+  - **Example Split (4-day Upper/Lower):**  
+    - Monday: Squat-focused lower body  
+    - Tuesday: Bench-focused upper body  
+    - Thursday: Deadlift-focused lower body  
+    - Friday: Overhead Press/Bench upper body  
+    - (Wed/Sat/Sun: Rest or light cardio/recovery)  
+
+- **Weekly Schedule:** M: Squat, T: Bench, W: Rest, Th: Deadlift, F: Press, Sa/Su: Rest.  
+- **Phase Structure:** Often linear or periodized by 8–12 week blocks. Example:  
+  - *Phase 1 (Weeks 1–4):* Volume phase with moderate loads (e.g. 3–5 sets of 5–6 @ ~75%1RM) focusing on technique and accumulating work.  
+  - *Phase 2 (Weeks 5–8):* Intensity phase, heavier loads (4–6×2–4 @ 80–90%1RM) for strength.  
+  - *Phase 3 (Weeks 9–12):* Peaking phase, singles/doubles at near-PR weights (e.g. 4×1–3 @ 90–95%1RM).  
+
+- **Daily Workouts (example):**  
+  - *Monday (Squat Day):*  
+    1. Barbell Back Squat – 4×5 @ 75%1RM (120 s)  
+    2. Pause Squats – 2×3–5 (paused 2s at bottom) (90 s)  
+    3. Leg Press – 3×8–10 (90 s)  
+    4. Plank – 3×60 s (–)  
+
+  - *Tuesday (Bench Day):*  
+    1. Barbell Bench Press – 4×5 @ 75%1RM (120 s)  
+    2. Close-Grip Bench Press – 3×5–8 (90 s)  
+    3. Barbell Row – 3×6–8 (90 s)  
+    4. Hanging Leg Raise – 3×10 (60 s)  
+
+  - *Thursday (Deadlift Day):*  
+    1. Deadlift – 4×3 @ 80%1RM (120–180 s)  
+    2. Romanian Deadlift – 3×6–8 (90 s)  
+    3. Hamstring Curl – 3×8–12 (60 s)  
+    4. Back Extension – 3×10–12 (60 s)  
+
+  - *Friday (Press Day):*  
+    1. Overhead Press – 4×5 (90 s)  
+    2. Bench Press (Paused or Spoto) – 3×5 (90 s)  
+    3. Chin-Up – 3×6–10 (90 s)  
+    4. Farmer’s Walk – 2×30–45 s (–)  
+
+- **Progressive Overload:** For powerlifting, linear load increases each session/week on main lifts (e.g. +5 lbs/squat, +5 lbs/bench, +10 lbs/dead per week). Or use **percentage-based** loading (e.g. Squat @ 70%1RM ×3, next week 75%×3, etc.) with planned RPE. Track and aim to break PRs. Typically **RPE/RIR** is used to auto-regulate intensity, aiming for 1–2 rep max sets (RPE9–10). See ACSM: strength focus ~80%1RM and low reps.  
+- **Advanced Techniques:** Limited in pure strength programs, but some may use *RPE clusters* (e.g. perform single reps with 20–30 s rest to accumulate volume) or *wave loading* (varying reps 3-2-1 each workout). 3-sec eccentrics can build control on assistance lifts. Use occasional speed sets (50–60% 1RM x 2–3 explosively) on squats/bench to train power.  
+- **Avoid:** Because goal is strength, avoid high-rep fatigue sets that may impair recovery. Also avoid hypertrophy-only isolation that detract from main lifts (e.g. cable flyes). Keep accessory work purposeful (e.g. tricep extensions, lat pull-downs to strengthen bench/dead).  
+- **Deload:** Power athletes often deload every 4–6 weeks or before a meet. A deload week includes 60% intensity with volume reduced by ~50%. For example, perform main lifts at ~50–60% weight for few reps, or cut sets in half, focusing on technique and recovery.
+
+---
+
+## 4. Calisthenics / Bodyweight Only (No Gym)
+
+- **Focus:** Build strength and muscle using only bodyweight and minimal equipment (bars, rings). Emphasize pull-ups, push-ups, dips, and progression variations.  
+- **Training Split:** 3–4 day split mixing push, pull, and legs, with skill practice (handstands). Example 4-day:  
+  - Day 1: Pull (back, biceps)  
+  - Day 2: Push (chest, triceps, shoulders) + core  
+  - Day 3: Rest / Active mobility  
+  - Day 4: Leg Day (bodyweight squats, lunges, jumps)  
+  - Day 5: Core + Handstand work  
+  - Day 6–7: Rest / flexibility  
+
+- **Progressions:** Each exercise has easier → harder versions: e.g. negative pull-ups → assisted pull-ups → full pull-ups → weighted pull-ups; knee push-ups → incline push-ups → push-ups → decline/one-arm push-up; assisted handstand → freestanding.  
+- **Sample Exercises:** Pull-Ups, Australian Rows, Chin-Ups, Inverted Rows; Dips (parallettes/chairs), Push-Ups (various angles), Pike Push-Ups/Handstand Push-Ups; Pistols (one-leg squats), Jump Squats, Nordic Curls; Planks, L-Sits, Dragon Flags for abs.  
+- **Example Full Program (3 days):**  
+  - *Day A (Pull/Core):* Australian Row 4×8–12; Pull-Up (assisted/progress) 4×5–10; Chin-Up 3×6–10; Hanging Leg Raise 3×10; Plank 3×60 s.  
+  - *Day B (Push/Core):* Push-Up 4×10–15; Dips (chair or parallel) 4×6–12; Pike Push-Up 3×8–10; Diamond Push-Up 2×12; Hollow Hold 3×30 s.  
+  - *Day C (Legs/Core):* Bodyweight Squat or Bulgarian Split 4×10–15; Pistol Squat progression 3×5–8; Nordic Ham Curl 3×5–8; Calf Raise (single-leg) 3×12; L-Sit 3×20–30 s.  
+
+  *Alternate push/pull/legs/core across 5–6 days for variety.*  
+- **Progressive Overload:** Increase reps, add holds (pauses at bottom/top), increase lever length (harder push-up variations), or add weight (backpack). For strength-endurance, use circuits or EMOM (e.g. 5 push-ups every minute).  
+- **Advanced Techniques:** *Archer push-ups, clapping push-ups* (plyometric), *muscle-ups* (advanced pull). Use supersets (e.g. pull/push superset). *Dropsets* via angle adjustment (e.g. do push-ups then immediately do knee push-ups). EMOM or AMRAP sets to push volume.  
+- **Exercises to Avoid:** None specifically off-limits; but overweight individuals may strain joints with high-rep plyo initially. Modify instead.  
+
+*(Note: ACSM now acknowledges bodyweight training is highly effective. Focus on technique and gradual progression.)*
+
+---
+
+## 5. Weight Loss / Fat Burning (Muscle-Preserving)
+
+- **Focus:** Maximize caloric burn and preserve muscle. Combine resistance training with metabolic conditioning. Moderate caloric deficit, high-protein diet.  
+- **Training Split:** Full-body or upper/lower circuits 3–5x/week. Emphasize compound lifts and circuit training.  
+  - **Example 4-day Upper/Lower Split:**  
+    - Monday: Full Body Strength  
+    - Tuesday: HIIT or MetCon (bodyweight/cardio)  
+    - Thursday: Full Body Strength  
+    - Friday: HIIT/MetCon or Rest  
+    - Sat/Sun: Active recovery (light cardio, mobility)  
+
+- **Weekly Schedule:** e.g., M: Strength, T: HIIT, W: Rest, Th: Strength, F: HIIT, Sa: Active, Su: Rest.  
+- **Phase Structure:** 8–12 week blocks. Intensity-based with some variation:  
+  - *Phase 1:* Building base strength (3–4 sets of 8–12 on big lifts) and moderate-intensity cardio (20–30 min steady-state).  
+  - *Phase 2:* Introduce circuits/supersets to elevate heart rate (e.g., bench→row superset). Start interval training (e.g., 30s sprint/30s rest ×10).  
+  - *Phase 3:* Emphasize higher frequency (4–5 days) with mixed lifting and metabolic sets. Include advanced techniques (drop sets, active rest) to increase EPOC.  
+
+- **Daily Workouts:**  
+  - *Strength Days (Full Body):* Squat 3×8–10; Bench Press 3×8–10; Bent-Over Row 3×8–10; Overhead Press 3×8–10; Deadlift or Hip Thrust 3×6–8; Plank 3×60 s.  
+  - *Circuit Days:* Cycle through 5–6 exercises with minimal rest (e.g., Pull-Up, Push-Up, Jump Squat, Dumbbell Row, Burpees) for 3–4 rounds.  
+  - *HIIT:* Sprint intervals (e.g., 10× 30 s sprint/30 s rest) or Tabata bodyweight (push-up, squat, plank).  
+
+- **Progressive Overload:** Even in fat-loss phase, apply double-progression on strength lifts. Track performance (use log or RPE). Increase total volume (e.g. add a set each week) or intensity (less rest).  
+- **Advanced Techniques:** **Drop sets, rest-pause, supersets** are especially useful to increase caloric burn (short rests increases EPOC). **Compound supersets** (push/pull exercises back-to-back) maximize efficiency. EMOM circuits (e.g. 5 pull-ups at each minute on the minute for 10 min).  
+- **Avoid:** Long steady-state cardio at the expense of lifting; overtraining deficit causing muscle loss. Limit isolation exercises (they burn fewer calories).  
+- **Deload:** Similar to others, schedule a light week every 6–8 weeks. Use it for active recovery (yoga, swimming) and fewer lifts. Watch for signs of plateau or excessive fatigue.  
+
+*(E.g., ACSM suggests mixing strength and cardiovascular exercise for fat loss. Maintaining high protein and performing resistance training helps **preserve muscle** during a calorie deficit.)*
+
+---
+
+## 6. Beginner General Fitness (First-Time Gym, No Experience)
+
+- **Focus:** Learn basic movements, build habit, improve strength and endurance safely. Emphasize full-body, lower loads, higher reps for technique practice.  
+- **Training Split:** 3× full-body per week (e.g., M/W/F). Use full-body routines to maximize frequency for all muscles.  
+- **Weekly Schedule:** Mon/Wed/Fri: Training; other days rest or light activity.  
+- **Phase Structure:**  
+  - *Phase 1 (Weeks 1–4):* Foundation – 2–3 sets of 12–15 reps, light weights focusing on form. Full body each session (squat, push, pull, core, etc.).  
+  - *Phase 2 (Weeks 5–8):* Progressive – 3–4 sets
