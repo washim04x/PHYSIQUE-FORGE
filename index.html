@@ -186,6 +186,17 @@ details.faq p{margin:12px 0 0;color:var(--muted);font-size:13px}
 @media (max-width: 1100px){.hero-grid,.form-shell,.summary{grid-template-columns:1fr}.form,.stats,.stats-grid,.summary-row,.donut-wrap,.faq-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.grid.services,.grid.packages,.grid.stats2{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width: 700px){.menu{justify-content:flex-start}.hero{padding-top:50px}.hero h2{font-size:clamp(44px,16vw,72px)}.form,.stats,.stats-grid,.summary-row,.donut-wrap,.faq-grid,.grid.services,.grid.packages,.grid.stats2,.macros{grid-template-columns:1fr}.section{padding:64px 0}.section h3{font-size:40px}.btn{width:100%}.hero-actions{display:grid;grid-template-columns:1fr;width:100%}.table,.ex-table{min-width:860px}}
 @media print{*{background:#fff !important;color:#000 !important;box-shadow:none !important;text-shadow:none !important;animation:none !important;transition:none !important}body{background:#fff !important}.topbar,.hero-actions,.actions,.note,.tabs,.phase-switch,.menu,.btn{display:none !important}.hero,.section{padding:20px 0;min-height:auto}.card,.panel,.metric,.summary-card,.total,.day-card,details.faq,.callout{border:1px solid #cfcfcf !important}.hero h2,.section h3,.brand h1,.footer strong{-webkit-text-fill-color:initial !important;background:none !important;color:#000 !important}.results{display:block !important}.tabpanel{display:block !important;break-inside:avoid}.table-wrap,.meal summary,.ex-table{min-width:0}}
+
+.alt-section{margin-top:14px;border-top:1px solid rgba(42,42,42,.6);padding-top:14px}
+.alt-label{font-size:11px;text-transform:uppercase;letter-spacing:1.4px;color:var(--gold-lt);margin-bottom:10px}
+.alt-row{display:grid;grid-template-columns:repeat(auto-fill,minmax(195px,1fr));gap:8px}
+.alt-card{background:rgba(255,255,255,.03);border:1px solid var(--border);border-radius:12px;padding:12px;transition:border-color .2s ease,background .2s ease}
+.alt-card:hover{border-color:rgba(201,168,76,.38);background:rgba(201,168,76,.05)}
+.alt-num{display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;border-radius:50%;background:rgba(201,168,76,.18);color:var(--gold-lt);font-size:10px;font-weight:800;margin-bottom:6px}
+.alt-name{font-weight:800;font-size:13px;color:#fff;margin-bottom:3px}
+.alt-desc{font-size:11px;color:var(--muted);margin-bottom:6px;line-height:1.4}
+.alt-foods{font-size:10px;color:#ccc;margin-bottom:5px}
+.alt-macro{font-size:10px;color:var(--gold-lt);font-weight:700}
 </style>
 </head>
 <body>
@@ -258,7 +269,7 @@ details.faq p{margin:12px 0 0;color:var(--muted);font-size:13px}
           <div class="field"><label for="height">Height (cm)</label><input id="height" name="height" type="number" min="140" max="210" placeholder="140-210" required><div class="error" id="err-height"></div></div>
           <div class="field"><label for="goal">Primary Fitness Goal</label><select id="goal" name="goal" required><option value="">Choose...</option><option value="vtaper">Aesthetic V-Taper</option><option value="bodybuilder">Classic Bodybuilder</option><option value="fatloss">Fat Loss / Weight Cut</option><option value="strength">Strength & Powerlifting</option><option value="beginner">Beginner General Fitness</option><option value="calisthenics">Calisthenics / No Gym</option></select><div class="error" id="err-goal"></div></div>
           <div class="field"><label for="activity">Activity Level</label><select id="activity" name="activity" required><option value="">Choose...</option><option value="1.2">Sedentary</option><option value="1.375">Lightly Active</option><option value="1.55" selected>Moderately Active</option><option value="1.725">Very Active</option><option value="1.9">Athlete</option></select><div class="error" id="err-activity"></div></div>
-          <div class="field"><label for="budget">Monthly Food Budget</label><select id="budget" name="budget" required><option value="">Choose...</option><option value="1500">₹1,000-1,500/month</option><option value="3000" selected>₹1,500-3,000/month</option><option value="6000">₹3,000-6,000/month</option><option value="12000">₹6,000-12,000/month</option><option value="24000">₹12,000+/month</option></select><div class="error" id="err-budget"></div></div>
+          <div class="field"><label for="budget">Monthly Food Budget</label><select id="budget" name="budget" required><option value="">Choose...</option><option value="1500">₹1,000-1,500/month</option><option value="3000" selected>₹1,500-3,000/month</option><option value="6000">₹3,000-6,000/month</option><option value="12000">₹6,000-12,000/month</option><option value="24000">???12,000+/month</option></select><div class="error" id="err-budget"></div></div>
           <div class="field"><label for="cooking">Cooking Access</label><select id="cooking" name="cooking" required><option value="">Choose...</option><option value="kettle">Electric Kettle Only</option><option value="basic" selected>Basic Kitchen</option><option value="full">Full Kitchen</option></select><div class="error" id="err-cooking"></div></div>
           <div class="field"><label for="gym">Gym Access</label><select id="gym" name="gym" required><option value="">Choose...</option><option value="full" selected>Full Gym</option><option value="dumbbells">Dumbbells Only</option><option value="bodyweight">Bodyweight / No Equipment</option></select><div class="error" id="err-gym"></div></div>
           <div class="field"><label for="diet">Dietary Preference</label><select id="diet" name="diet" required><option value="">Choose...</option><option value="nonveg" selected>Non-Vegetarian</option><option value="vegetarian">Vegetarian</option><option value="pureveg">Pure Vegetarian</option><option value="vegan">Vegan</option></select><div class="error" id="err-diet"></div></div>
@@ -274,7 +285,7 @@ details.faq p{margin:12px 0 0;color:var(--muted);font-size:13px}
             <li>Adapts for goal, cooking access, gym access, and injuries.</li>
           </ul>
           <div class="callout warn" style="margin-top:14px">
-            <div class="bullet">!</div>
+            <div class="bullet">⚠️</div>
             <div><strong>Waist-First Protocol Active:</strong> when V-Taper is selected, oblique-thickening moves are excluded and back/delt work gets the highest priority.</div>
           </div>
         </aside>
@@ -287,7 +298,7 @@ details.faq p{margin:12px 0 0;color:var(--muted);font-size:13px}
       <div class="panel-head" style="margin-bottom:14px"><strong id="heroNameLabel">Your Blueprint</strong><span id="heroGoalLabel">Awaiting submission</span></div>
       <div class="tabs" role="tablist" aria-label="Blueprint Tabs">
         <button class="tab" data-tab="stats" aria-selected="true">📊 Your Stats</button>
-        <button class="tab" data-tab="diet">🍱 Diet Plan</button>
+        <button class="tab" data-tab="diet">🍽️ Diet Plan</button>
         <button class="tab" data-tab="training">🏋️ Training Plan</button>
         <button class="tab" data-tab="tips">💡 Tips</button>
       </div>
@@ -313,14 +324,14 @@ details.faq p{margin:12px 0 0;color:var(--muted);font-size:13px}
       </div>
 
       <div class="tabpanel" id="tab-diet">
-        <div class="callout" id="budgetCallout" style="margin-bottom:14px"><div class="bullet">₹</div><div><strong>Budget compliance:</strong> <span id="budgetText"></span></div></div>
+        <div class="callout" id="budgetCallout" style="margin-bottom:14px"><div class="bullet">💰</div><div><strong>Budget compliance:</strong> <span id="budgetText"></span></div></div>
         <div class="meal-timeline" id="mealTimeline"></div>
         <div class="summary-row" id="dailyTotals"></div>
         <div style="margin-top:14px" class="summary-card">
           <h4>Monthly Grocery List</h4>
           <div class="table-wrap"><table class="table" id="groceryTable"></table></div>
         </div>
-        <div style="margin-top:14px" class="callout warn"><div class="bullet">⚠</div><div><strong>What to avoid:</strong> excess fried snacks, sugar drinks, large rice overfeeds, and random untracked calories that crowd out protein.</div></div>
+        <div style="margin-top:14px" class="callout warn"><div class="bullet">💰</div><div><strong>What to avoid:</strong> excess fried snacks, sugar drinks, large rice overfeeds, and random untracked calories that crowd out protein.</div></div>
       </div>
 
       <div class="tabpanel" id="tab-training">
@@ -353,7 +364,7 @@ details.faq p{margin:12px 0 0;color:var(--muted);font-size:13px}
   <div class="wrap footer-row">
     <div>
       <strong>PHYSIQUE FORGE</strong>
-      <div>Powered by AI research · consult a healthcare professional before starting any new diet or exercise program.</div>
+      <div>Powered by AI research — consult a healthcare professional before starting any new diet or exercise program.</div>
     </div>
     <div style="text-align:right">
       <div>Dark/gold premium aesthetic · mobile responsive · print to PDF ready</div>
@@ -403,7 +414,15 @@ const foodDatabase={
  cucumber:F('cucumber','Cucumber',16,0.7,3.6,0.1,2,'Eat raw.',['vegan','vegetarian','nonveg'],['all-purpose']),
  flax:F('flax','Flaxseeds',534,18.3,28.9,42.2,7,'Grind and add to oats or curd.',['vegan','vegetarian','nonveg'],['fat-source','protein-source']),
  sesame:F('sesame','Sesame seeds',573,17.7,23.4,49.7,6,'Mix into oats, sattu, or chutney.',['vegan','vegetarian','nonveg'],['fat-source','protein-source']),
- ghee:F('ghee','Ghee',900,0,0,100,18,'Add a small amount for flavor.',['vegetarian','nonveg','pureveg'],['fat-source'])
+ ghee:F('ghee','Ghee',900,0,0,100,18,'Add a small amount for flavor.',['vegetarian','nonveg','pureveg'],['fat-source']),
+ black_raisin:F('black_raisin','Black Raisins (soaked)',299,3,79,0.5,12,'Soak overnight. Rich in iron/antioxidants.',['vegan','vegetarian','pureveg','nonveg'],['carb-source']),
+ curry_leaves:F('curry_leaves','Curry Leaves (Kadi Patta)',108,6,18,1,2,'Chew raw on empty stomach. Good for hair.',['vegan','vegetarian','pureveg','nonveg'],['all-purpose']),
+ amla:F('amla','Amla (Indian Gooseberry)',44,1,10,0.6,4,'Massive Vitamin C. Boosts iron absorption.',['vegan','vegetarian','pureveg','nonveg'],['carb-source']),
+ beef:F('beef','Beef (Lean cut, cooked)',250,26,0,15,30,'High iron and protein. Curry or bhuna.',['nonveg'],['protein-source']),
+ mutton:F('mutton','Mutton / Lamb (cooked)',294,25,0,21,45,'Rich in zinc/B12. Limit excess gravy oil.',['nonveg'],['protein-source']),
+ black_coffee:F('black_coffee','Black Coffee',2,0.1,0,0,5,'No sugar. Drink 45 mins away from zinc/iron meals.',['vegan','vegetarian','pureveg','nonveg'],['all-purpose']),
+ fish_oil:F('fish_oil','Fish Oil Capsule (Omega-3)',9,0,0,1,15,'Take with fat-containing meal for absorption.',['nonveg','vegetarian'],['fat-source'])
+
 };
 
 const exerciseDatabase={
@@ -1050,9 +1069,14 @@ return 'Cook simply with rice, dal, vegetables, and a clean protein source.';}
 
 function addMealItem(meal,id,grams){const found=meal.items.find(x=>x.id===id);if(found)found.grams+=grams;else meal.items.push({id,grams});meal.items=mergeItems(meal.items);}
 function bestFoodForRole(role,slotKey,state,usedCount){const slot=mealSlots.find(s=>s.key===slotKey)||mealSlots[2];return chooseFoodPool(role,slot,state,usedCount)[0]||foodCopy(fallbackFoodId(role,state.diet,state.cooking,budgetMap[state.budget].tier));}
-function tuneMeals(meals,state,usedCount){let totals=computeMealTotals(meals,state);for(let guard=0;guard<8;guard++){
+// FEATURE #2: Smart Budget Swap
+const BUDGET_SWAP_TIERS={chicken:['soya_chunks','egg_whole','moong_dal','sattu'],chicken_thigh:['soya_chunks','egg_whole','moong_dal','sattu'],paneer:['tofu','soya_chunks','hung_curd','moong_dal'],rohu:['soya_chunks','egg_whole','moong_dal','tuna_canned'],katla:['soya_chunks','egg_whole','moong_dal','tuna_canned'],prawn:['soya_chunks','egg_whole','moong_dal','sattu'],tuna_canned:['soya_chunks','egg_whole','moong_dal','sattu'],greek_yogurt:['curd','hung_curd','moong_dal','sattu'],egg_white:['egg_whole','soya_chunks','moong_dal','sattu'],tofu:['soya_chunks','moong_dal','sattu']};
+function tryBudgetSwap(meals,state,usedCount){const CPP=1.8;let swapped=false;meals.forEach(meal=>{meal.items=meal.items.map(item=>{const food=resolveMealFood(item.id,state);if(primaryFoodRole(food)!=='protein')return item;const cpp=(food.price*item.grams/100)/Math.max(food.p*item.grams/100,0.1);if(cpp<=CPP)return item;const cands=BUDGET_SWAP_TIERS[food.id]||[];for(const altId of cands){const alt=foodCopy(altId);if(!alt||!dietAllowsFood(alt,state.diet)||!cookingAllowsFood(alt,state.cooking))continue;const tpm=food.p*item.grams/100;const ng=Math.round(clamp((tpm*100)/Math.max(alt.p,1),40,200));const nc=(alt.price*ng/100)/Math.max(alt.p*ng/100,0.1);if(nc<cpp){usedCount[altId]=(usedCount[altId]||0)+1;swapped=true;return{id:altId,grams:ng};}}return item;});});return swapped;}
+
+function tuneMeals(meals,state,usedCount){let totals=computeMealTotals(meals,state);for(let guard=0;guard<10;guard++){
   const room=Math.max(0,state.dailyBudget-totals.cost);let changed=false;
   if(totals.kcal>state.targetKcal*1.06){meals.forEach(meal=>{meal.items=meal.items.map(item=>{const f=resolveMealFood(item.id,state);const role=primaryFoodRole(f);const nonProteinScale=state.goal==='fatloss'?.72:.82;const scale=role==='protein'?.98:role==='produce'?1:nonProteinScale;return {id:item.id,grams:Math.max(12,Math.round(item.grams*scale))};});});changed=true;}
+  if(!changed&&totals.cost>state.dailyBudget){const didSwap=tryBudgetSwap(meals,state,usedCount);if(didSwap)changed=true;}
   if(!changed&&totals.cost>state.dailyBudget){const scale=clamp((state.dailyBudget*.985)/Math.max(totals.cost,1),.58,.98);meals.forEach(meal=>{meal.items=meal.items.map(item=>{const f=resolveMealFood(item.id,state);const role=primaryFoodRole(f);const protect=role==='protein'?clamp(scale+.08,.62,1):role==='produce'?1:scale;return {id:item.id,grams:Math.max(12,Math.round(item.grams*protect))};});});changed=true;}
   if(!changed&&totals.protein<state.targetProtein*.94&&room>2){const food=bestFoodForRole('protein','postworkout',state,usedCount);const grams=clamp(((state.targetProtein-totals.protein)*100)/Math.max(food.p,1),25,food.id==='soya_chunks'?90:120);if((food.price*grams/100)<=room*1.08){addMealItem(meals[4],food.id,Math.round(grams));changed=true;}}
   if(!changed&&totals.carbs<state.targetCarbs*.92&&room>1.5){const food=bestFoodForRole('carb','lunch',state,usedCount);const grams=clamp(((state.targetCarbs-totals.carbs)*100)/Math.max(food.c,1),30,100);if((food.price*grams/100)<=room*1.08){addMealItem(meals[2],food.id,Math.round(grams));changed=true;}}
@@ -1061,6 +1085,73 @@ function tuneMeals(meals,state,usedCount){let totals=computeMealTotals(meals,sta
 }
 return computeMealTotals(meals,state);}
 function planQuality(state,totals){const kcalFit=100-Math.abs(totals.kcal-state.targetKcal)/Math.max(state.targetKcal,1)*115;const proteinFit=100-Math.max(0,state.targetProtein*.95-totals.protein)/Math.max(state.targetProtein,1)*140;const carbFit=100-Math.abs(totals.carbs-state.targetCarbs)/Math.max(state.targetCarbs,1)*55;const fatFit=100-Math.abs(totals.fat-state.targetFat)/Math.max(state.targetFat,1)*55;const budgetFit=totals.cost<=state.dailyBudget?100:100-((totals.cost-state.dailyBudget)/Math.max(state.dailyBudget,1))*180;const score=Math.round(clamp((kcalFit*.27)+(proteinFit*.33)+(carbFit*.12)+(fatFit*.10)+(budgetFit*.18),0,100));const notes=[];if(totals.cost>state.dailyBudget)notes.push('budget is tight, portions were compressed');if(totals.protein<state.targetProtein*.9)notes.push('protein target is aggressive for this budget/diet');if(totals.kcal<state.targetKcal*.9)notes.push('calories are below target because the selected budget is restrictive');if(!notes.length)notes.push('diet, cooking, budget, and macro constraints matched cleanly');return {score,notes};}
+
+
+// ─── GOD-LEVEL MEAL COMBOS (curated Indian meals with nutritional synergy) ────
+const MEAL_COMBOS={
+ wake:[
+  {n:'The Phyto-Iron Starter',d:'Soaked seeds/raisins with curry leaves. High iron & antioxidants.',i:[['chia_seeds',15],['black_raisin',15],['curry_leaves',5]],diet:'vegan',cook:'kettle',sync:'Chewing raw curry leaves on an empty stomach stimulates digestive enzymes.'},
+  {n:'Protein Sattu Shot',d:'Fast digestible plant protein with omega-3.',i:[['sattu',40],['flax',10],['banana',100]],diet:'vegan',cook:'kettle',sync:'Adding lemon to sattu provides Vitamin C to boost non-heme iron absorption.'},
+  {n:'Almond & Poha Pre-fuel',d:'Soaked almonds and a quick complex carb source.',i:[['almonds',20],['poha',50]],diet:'vegan',cook:'kettle',sync:'Soaked almonds first provide a fat buffer to slow the glycemic response of the poha.'},
+  {n:'Warm Oats & Chia',d:'Quick oats with healthy fats for sustained energy.',i:[['oats',40],['pumpkin_seeds',10],['chia_seeds',10]],diet:'vegan',cook:'kettle',sync:'Soaking chia in warm oats reduces phytic acid, unlocking more minerals.'}
+ ],
+ preworkout:[
+  {n:'Egg Lean Fuel',d:'Pure protein and fats to keep insulin low pre-workout.',i:[['egg_whole',120]],diet:'vegetarian',cook:'kettle',sync:'Eggs keep you satiated for hours, maximizing fat burning pre-workout.'},
+  {n:'Plant Lean Fuel',d:'For vegans: Roasted chana and amla to replace eggs.',i:[['roasted_chana',50],['amla',20]],diet:'vegan',cook:'kettle',sync:'Amla Vitamin C converts ferric iron in chana into highly absorbable ferrous iron.'},
+  {n:'Probiotic Carb Load',d:'Light starchy meal with quick protein. Easy on the gut.',i:[['banana',120],['curd',100]],diet:'pureveg',cook:'basic',sync:'Curd probiotics help break down banana carbs faster for gym energy.'},
+  {n:'Sustained Sweet Potato',d:'Complex carb for 3-4 hours of fuel without insulin spike.',i:[['sweet_potato',150]],diet:'vegan',cook:'basic',sync:'Eat boiled with skin on to maximize fiber and slow digestion.'}
+ ],
+ lunch:[
+  {n:'Beef Bhuna & Fiber First',d:'Halved rice. High iron and protein.',i:[['white_rice',100],['masoor_dal',60],['beef',150],['cucumber',100]],diet:'nonveg',cook:'full',sync:'Fiber First: Eat dal & cucumber before rice to coat stomach and blunt insulin spike.'},
+  {n:'Fish Curry Thali',d:'Classic Bengali lunch with Rohu. Portion-controlled rice.',i:[['white_rice',120],['rohu',150],['spinach',100]],diet:'nonveg',cook:'full',sync:'Eat the spinach/shaak first to slow gastric emptying.'},
+  {n:'Chicken Kosha & Dal',d:'Lean chicken. High-protein home meal.',i:[['white_rice',120],['chicken_thigh',150],['masoor_dal',50]],diet:'nonveg',cook:'full',sync:'Wash excess oil off chicken if cooked in heavy gravy.'},
+  {n:'Rajma Chawal (Probiotic Boost)',d:'Vegetarian complete protein.',i:[['white_rice',100],['rajma',120],['curd',100],['onion',50]],diet:'pureveg',cook:'basic',sync:'Probiotic curd lactobacillus breaks down complex sugars in rajma, preventing bloating.'},
+  {n:'Mutton Dal Gosth (Low GI)',d:'Mutton in dal for protein synergy.',i:[['chapati',60],['mutton',120],['chana_dal',50]],diet:'nonveg',cook:'full',sync:'Chapati instead of rice keeps GI lower while absorbing B12 from mutton.'}
+ ],
+ snack:[
+  {n:'The Phosvitin-Blocker Combo',d:'Eggs + Peanuts + Amla + Fish Oil.',i:[['egg_whole',120],['peanuts',30],['amla',20],['fish_oil',2],['pumpkin_seeds',10]],diet:'vegetarian',cook:'kettle',sync:'Phosvitin in eggs blocks iron. Amla Vit C counteracts this. Fish oil absorbs best with fat.'},
+  {n:'Paneer Lipid Synergy',d:'Raw paneer + peanuts + amla.',i:[['paneer',100],['peanuts',30],['amla',20],['fish_oil',2]],diet:'vegetarian',cook:'kettle',sync:'Saturated fats in paneer and peanuts maximize EPA/DHA absorption from fish oil.'},
+  {n:'Lean Meat Lipid Synergy',d:'Leftover chicken + peanuts + amla.',i:[['chicken',100],['peanuts',30],['amla',20],['fish_oil',2]],diet:'nonveg',cook:'kettle',sync:'Peanuts provide the fat needed to absorb the fish oil omega-3.'},
+  {n:'Sattu Amla Drink',d:'Sattu + seeds + amla as a liquid snack.',i:[['sattu',40],['chia_seeds',15],['amla',20],['walnuts',15]],diet:'vegan',cook:'kettle',sync:'Amla Vit C maximizes plant-iron absorption from Sattu.'}
+ ],
+ postworkout:[
+  {n:'Tannin-Separated Focus Block',d:'Coffee + Pumpkin Seeds (45 min gap).',i:[['black_coffee',10],['pumpkin_seeds',15]],diet:'vegan',cook:'kettle',sync:'Coffee tannins block zinc. Wait 45 mins before pumpkin seeds for full zinc absorption.'},
+  {n:'Green Tea Focus Block',d:'Green tea + Almonds (45 min gap).',i:[['almonds',20]],diet:'vegan',cook:'kettle',sync:'Wait 45 mins after green tea before almonds to prevent catechins blocking minerals.'},
+  {n:'Coffee & Chana Crunch',d:'Coffee + Roasted Chana (45 min gap).',i:[['black_coffee',10],['roasted_chana',30]],diet:'vegan',cook:'kettle',sync:'Wait 45 mins between coffee and chana to avoid blocking iron absorption.'},
+  {n:'Bodybuilder Coffee Block',d:'Coffee + Almonds (45 min gap).',i:[['black_coffee',10],['almonds',15]],diet:'vegan',cook:'kettle',sync:'Wait 45 mins after coffee before nuts to ensure magnesium absorption.'}
+ ],
+ dinner:[
+  {n:'Fish Dinner + Late Night Chana',d:'Light dinner. Roasted chana at 11 PM.',i:[['white_rice',80],['rohu',120],['cabbage',100],['roasted_chana',40]],diet:'nonveg',cook:'full',sync:'Late Night: Chana is slow-digesting and satisfies cravings without spiking pre-sleep blood sugar.'},
+  {n:'Beef/Mutton Dinner + Chana',d:'Lean cuts only. Chana at 11 PM.',i:[['chapati',60],['beef',120],['cucumber',100],['roasted_chana',40]],diet:'nonveg',cook:'full',sync:'Eat chana at 11 PM to prevent midnight hunger.'},
+  {n:'Chicken Dinner + Chana',d:'Chicken + Salad. Chana at 11 PM.',i:[['chicken',150],['tomato',100],['roasted_chana',40]],diet:'nonveg',cook:'full',sync:'Eat chana at 11 PM.'},
+  {n:'Dal Soup Dinner + Chana',d:'Dal soup + Roti. Chana at 11 PM.',i:[['moong_dal',80],['chapati',60],['roasted_chana',40]],diet:'pureveg',cook:'basic',sync:'Eat chana at 11 PM.'},
+  {n:'Paneer Dinner + Chana',d:'Paneer sabzi + Roti. Chana at 11 PM.',i:[['paneer',100],['chapati',60],['roasted_chana',40]],diet:'pureveg',cook:'basic',sync:'Eat chana at 11 PM.'}
+ ]
+};
+const DIET_RANK={vegan:0,pureveg:1,vegetarian:2,nonveg:3};
+const COOK_RANK={kettle:0,basic:1,full:2};
+
+// FEATURE #4: Dynamic TDEE Scaling of MEAL_COMBOS (baseline = 2000 kcal)
+const COMBO_BASELINE_KCAL=2000;
+function comboMultiplier(state){return Math.max(0.65,Math.min(1.45,state.targetKcal/COMBO_BASELINE_KCAL));}
+function scaleComboItems(items,state){const m=comboMultiplier(state);return items.map(([id,g])=>[id,Math.max(10,Math.round(g*m))]);}
+
+function getAlternatives(slotKey,state,maxN){
+ const maxCount=maxN||(state.cooking==='full'?5:state.cooking==='basic'?4:3);
+ const uDR=DIET_RANK[state.diet]??3;
+ const uCR=COOK_RANK[state.cooking]??2;
+ const tier=budgetMap[state.budget].tier;
+ return(MEAL_COMBOS[slotKey]||[])
+  .filter(c=>{const cDR=DIET_RANK[c.diet]??0;const cCR=COOK_RANK[c.cook]??0;
+   if(cDR>uDR||cCR>uCR)return false;
+   if(tier==='low'){const cost=c.i.reduce((s,[id,g])=>{const f=foodCopy(id);return f?s+f.price*g/100:s;},0);if(cost>state.dailyBudget*.55)return false;}
+   return true;})
+  .slice(0,maxCount)
+  .map(combo=>{const si=scaleComboItems(combo.i,state);const mac={k:0,p:0,c:0,f:0};
+   si.forEach(([id,g])=>{const f=resolveFood(id,state.diet,state.cooking,tier)||foodCopy('sattu');const m=macroOf(f,g);mac.k+=m.k;mac.p+=m.p;mac.c+=m.c;mac.f+=m.f;});
+   return{...combo,i:si,mac:{k:Math.round(mac.k),p:Math.round(mac.p),c:Math.round(mac.c),f:Math.round(mac.f)}};});
+}
+
 
 function buildMeals(state){const budgetTier=budgetMap[state.budget].tier;const proteinPool=proteinChoice(state.goal,state.diet,budgetTier);const proteinGoal=Math.max(1,state.targetProtein);const fatGoal=Math.max(1,state.targetFat);const carbGoal=Math.max(1,state.targetCarbs);
 const baseTargets={};mealSlots.forEach(slot=>{baseTargets[slot.key]={kcal:state.targetKcal*slot.ratio,protein:proteinGoal*slot.ratio,carbs:carbGoal*slot.ratio,fat:fatGoal*slot.ratio};});
@@ -1073,7 +1164,8 @@ mealSlots.forEach((slot,idx)=>{const meal=buildMealFromSlot(slot,state,usedCount
   meals.push(meal);
 });
 const totals=tuneMeals(meals,state,usedCount);const quality=planQuality(state,totals);
-return {meals:totals.meals,totals,monthly:buildGrocery(totals.meals,state),budgetDay:state.budget/30,quality};}
+const alternatives={};mealSlots.forEach(slot=>{alternatives[slot.key]=getAlternatives(slot.key,state);});
+return {meals:totals.meals,totals,monthly:buildGrocery(totals.meals,state),alternatives,budgetDay:state.budget/30,quality};}
 
 
 function estimateBaseCalories(base,diet,cooking,mainProtein,secondaryProtein,budgetTier){const temp={diet,cooking,budget:stateBudgetFromTier(budgetTier),goal:'vtaper'};return computeMealTotals(base.map(m=>({items:m.items.map(([id,grams])=>({id:id==='protein_main'?mainProtein:id==='secondary_protein'?secondaryProtein:id,grams}))})),temp).kcal||2400}
@@ -1116,7 +1208,7 @@ function renderStats(state,plan){metricCards.innerHTML=[
 
 const proteinPct=(plan.totals.protein*4/plan.totals.kcal)*100||0; const carbsPct=(plan.totals.carbs*4/plan.totals.kcal)*100||0; const fatPct=(plan.totals.fat*9/plan.totals.kcal)*100||0; macroDonut.style.background='conic-gradient(var(--green) 0 '+proteinPct+'%, var(--gold-lt) '+proteinPct+'% '+(proteinPct+carbsPct)+'%, var(--orange) '+(proteinPct+carbsPct)+'% 100%)'; macroKcal.textContent=Math.round(plan.totals.kcal); macroLegend.innerHTML=[['Protein',plan.totals.protein+' g', 'var(--green)'],['Carbs',plan.totals.carbs+' g','var(--gold-lt)'],['Fat',plan.totals.fat+' g','var(--orange)']].map(x=>'<div class="legend-item"><div><span class="legend-dot" style="background:'+x[2]+'"></span>'+x[0]+'</div><strong>'+x[1]+'</strong></div>').join('');
 
-bodySummary.innerHTML='<div>• '+Math.round(state.weight)+' kg bodyweight</div><div>• Hydration target: '+Math.round(state.weight*33)+' ml/day</div><div>• Training split: '+goalMeta[state.goal].split+'</div><div>• Cooking access: '+state.cooking+'</div>';
+bodySummary.innerHTML='<div>• '+Math.round(state.weight)+' kg bodyweight</div><div>??? Hydration target: '+Math.round(state.weight*33)+' ml/day</div><div>??? Training split: '+goalMeta[state.goal].split+'</div><div>??? Cooking access: '+state.cooking+'</div>';
 
 weekTimeline.innerHTML=[1,2,3,4,5,6,7,8].map(i=>'<div class="week '+(i<=4?'blue':'gold')+'"><div class="w">W'+i+'</div><div class="l">'+(i<=4?'Foundation':'Phase 2')+'</div></div>').join('');
 
@@ -1127,16 +1219,19 @@ function renderEngineSummary(state,plan){const labels={kettle:'kettle-only cooki
 
 
 function renderMeals(state,plan){mealTimeline.innerHTML=plan.meals.map((meal,i)=>{
+const slotKey=mealSlots[i]?.key||'lunch';
+const alts=(plan.alternatives&&plan.alternatives[slotKey])||[];
+const altHtml=alts.length?'<div class="alt-section"><div class="alt-label">\u{1F504} Rotate these options all week \u{2014} pick one each day:</div><div class="alt-row">'+alts.map((a,ai)=>'<div class="alt-card"><div class="alt-num">'+(ai+1)+'</div><div class="alt-name">'+a.n+'</div><div class="alt-desc">'+a.d+'</div>'+(a.sync?'<div class="alt-desc" style="color:var(--gold-lt);margin-top:4px"><strong>\u26A1 Rule:</strong> '+a.sync+'</div>':'')+'<div class="alt-foods">'+a.i.map(([id,g])=>(foodCopy(id)?.name||id)+' '+g+'g').join(' \u00B7 ')+'</div><div class="alt-macro">'+a.mac.k+' kcal \u00B7 '+a.mac.p+'g P \u00B7 '+a.mac.c+'g C \u00B7 '+a.mac.f+'g F</div></div>').join('')+'</div></div>':'';
 
 const items=meal.items.map(it=>'<div class="item"><span>'+it.food.name+' <span class="g">'+it.grams+' g</span></span><strong>'+Math.round(it.macros.p)+' P / '+Math.round(it.macros.c)+' C / '+Math.round(it.macros.f)+' F</strong></div>').join('');
 
-return '<details class="meal" '+(i===0?'open':'')+'><summary><div><div class="title">'+meal.title+'</div><div class="time">'+meal.time+'</div></div><div style="color:var(--muted);font-size:12px">'+Math.round(meal.totals.kcal)+' kcal</div></summary><div class="meal-body"><div class="items">'+items+'</div><div class="macros"><div class="macro p"><div class="v">'+Math.round(meal.totals.protein)+'</div><div class="k">Protein</div></div><div class="macro c"><div class="v">'+Math.round(meal.totals.carbs)+'</div><div class="k">Carbs</div></div><div class="macro f"><div class="v">'+Math.round(meal.totals.fat)+'</div><div class="k">Fat</div></div><div class="macro k"><div class="v">'+Math.round(meal.totals.kcal)+'</div><div class="k">Kcal</div></div></div><p class="prep">'+meal.prep+'</p></div></details>';
+return '<details class="meal" '+(i===0?'open':'')+'><summary><div><div class="title">'+meal.title+'</div><div class="time">'+meal.time+'</div></div><div style="color:var(--muted);font-size:12px">'+Math.round(meal.totals.kcal)+' kcal</div></summary><div class="meal-body"><div class="items">'+items+'</div><div class="macros"><div class="macro p"><div class="v">'+Math.round(meal.totals.protein)+'</div><div class="k">Protein</div></div><div class="macro c"><div class="v">'+Math.round(meal.totals.carbs)+'</div><div class="k">Carbs</div></div><div class="macro f"><div class="v">'+Math.round(meal.totals.fat)+'</div><div class="k">Fat</div></div><div class="macro k"><div class="v">'+Math.round(meal.totals.kcal)+'</div><div class="k">Kcal</div></div></div><p class="prep">'+meal.prep+'</p>'+altHtml+'</div></details>';
 
 }).join('');
 
 dailyTotals.innerHTML=[['Kcal',plan.totals.kcal],['Protein',plan.totals.protein+' g'],['Carbs',plan.totals.carbs+' g'],['Fat',plan.totals.fat+' g']].map(x=>'<div class="total"><div class="v">'+Math.round(parseFloat(x[1]))+'</div><div class="l">'+x[0]+'</div></div>').join('');
 
-const dayBudget=plan.totals.cost; const within=dayBudget<=state.dailyBudget; budgetText.innerHTML='Estimated food cost: <strong>'+fmtINR(dayBudget)+'</strong> per day vs budget limit <strong>'+fmtINR(state.dailyBudget)+'</strong>.'; budgetCallout.className='callout '+(within?'':'warn'); budgetCallout.querySelector('.bullet').textContent=within?'₹':'!';
+const dayBudget=plan.totals.cost; const within=dayBudget<=state.dailyBudget; budgetText.innerHTML='Estimated food cost: <strong>'+fmtINR(dayBudget)+'</strong> per day vs budget limit <strong>'+fmtINR(state.dailyBudget)+'</strong>.'; budgetCallout.className='callout '+(within?'':'warn'); budgetCallout.querySelector('.bullet').textContent=within?'???':'!';
 
 groceryTable.innerHTML='<thead><tr><th>Food</th><th>Monthly Qty</th><th>Unit Price / 100g</th><th>Monthly Cost</th></tr></thead><tbody>'+plan.monthly.map(x=>'<tr><td>'+x.food.name+'</td><td>'+Math.round(x.grams*30)+' g</td><td>'+fmtINR(x.food.price)+'</td><td>'+fmtINR(x.cost*30)+'</td></tr>').join('')+'<tr><td><strong>Total</strong></td><td></td><td></td><td><strong>'+fmtINR(dayBudget*30)+'</strong></td></tr></tbody>';
 
@@ -1164,12 +1259,12 @@ function renderTips(state){const g=tipSets[state.goal]; tipsGrid.innerHTML=[
 {title:'Goal focus',text:g.advice.join(' ')},
 
  {title:'Common mistakes',text:state.goal==='vtaper'?'Too much oblique work, too much waist-thickening deadlifting, and poor lateral-delt volume.':state.goal==='strength'?'Too much random accessory work, low sleep, and skipped deloads.':state.goal==='fatloss'?'Over-dieting, under-eating protein, and replacing lifting with endless cardio.':'Inconsistency, ego lifting, and poor exercise execution.'}
- ].map(x=>'<div class="card"><div class="icon">•</div><h4>'+x.title+'</h4><p>'+x.text+'</p></div>').join('');
+ ].map(x=>'<div class="card"><div class="icon">???</div><h4>'+x.title+'</h4><p>'+x.text+'</p></div>').join('');
  supplementGrid.innerHTML=g.supp.map(s=>'<div class="card"><div class="icon">'+s.charAt(0)+'</div><h4>'+s+'</h4><p>'+supplementNote(s)+'</p></div>').join('');
 }
 function supplementNote(s){const map={ 'Whey protein':'Easy way to raise daily protein without extra cooking.', 'Creatine monohydrate':'Useful for strength, power, and repeat efforts.', 'Omega-3':'Supports general recovery and dietary balance.', 'Multivitamin':'Helps fill common micronutrient gaps.', 'Caffeine':'Useful before hard sessions if tolerated.', 'Vitamin D':'Worth checking if you get limited sun exposure.', 'Electrolytes':'Helpful on hot days or high-sweat sessions.'}; return map[s]||'Optional, not mandatory.';}
 
-function renderStats2(state,plan){const calorieStr=Math.round(plan.totals.kcal); const totalProtein=round1(plan.totals.protein); const totalCarbs=round1(plan.totals.carbs); const totalFat=round1(plan.totals.fat); bodySummary.innerHTML='<div>• '+state.age+' years · '+(state.sex==='male'?'Male':'Female')+'</div><div>• '+Math.round(state.weight)+' kg · '+Math.round(state.height)+' cm</div><div>• Goal: '+goalMeta[state.goal].label+'</div><div>• Activity factor: '+state.activity+'</div>';
+function renderStats2(state,plan){const calorieStr=Math.round(plan.totals.kcal); const totalProtein=round1(plan.totals.protein); const totalCarbs=round1(plan.totals.carbs); const totalFat=round1(plan.totals.fat); bodySummary.innerHTML='<div>• '+state.age+' years ?? '+(state.sex==='male'?'Male':'Female')+'</div><div>• '+Math.round(state.weight)+' kg ?? '+Math.round(state.height)+' cm</div><div>??? Goal: '+goalMeta[state.goal].label+'</div><div>??? Activity factor: '+state.activity+'</div>';
  return {calorieStr,totalProtein,totalCarbs,totalFat};}
 
 function renderPlan(state){const plan=buildMeals(state); renderStats(state,plan); renderEngineSummary(state,plan); renderMeals(state,plan); renderTraining(state); renderTips(state); const s=renderStats2(state,plan); heroNameLabel.textContent='Blueprint for '+state.fullName; heroGoalLabel.textContent=goalMeta[state.goal].label+' · '+Math.round(state.targetKcal)+' kcal target';
